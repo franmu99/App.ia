@@ -36,9 +36,10 @@
             </div>
             <button type="submit">Predecir Precio</button>
         </form>
-        {% if prediccion %}
+        {% if prediccion_precio and prediccion_supermercado %}
         <div class="resultado">
-            <h2>Precio predicho: ${{ prediccion|round(2) }}</h2>
+            <h2>Precio predicho: ${{ prediccion_precio|round(2) }}</h2>
+            <h2>Supermercado recomendado: {{ prediccion_supermercado }}</h2>
         </div>
         {% endif %}
     </div>

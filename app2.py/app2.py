@@ -10,13 +10,13 @@ modelo = joblib.load('modelo_random_forest.joblib')
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
-    prediccion = None
+    prediccion_precio = None
+    prediccion_supermercado = None
     if request.method == 'POST':
         # Obtener datos del formulario
         producto = request.form['producto']
         edad = float(request.form['edad'])
         ingreso = float(request.form['ingreso'])
-        supermercado = request.form['supermercado']
         dia_semana = request.form['dia_semana']
         temporada = request.form['temporada']
 
@@ -25,15 +25,16 @@ def index():
             'producto': [producto],
             'edad_cliente': [edad],
             'ingreso_cliente': [ingreso],
-            'supermercado': [supermercado],
             'dia_semana': [dia_semana],
             'temporada': [temporada]
         })
 
         # Realizar la predicción
-        prediccion = modelo.predict(datos)[0]
+        predicciones = modelo.predict(datos)
+        prediccion_precio = predicciones[0][0]  # Asumiendo que el precio es la primera salida
+        prediccion_supermercado = predicciones[0][1]  # Asumiendo que el supermercado es la segunda salida
 
-    return render_template('index.html', prediccion=prediccion)
+    return render_template('index.html', prediccion_precio=prediccion_precio, prediccion_supermercado=prediccion_supermercado)
 
 if __name__ == '__main__':
     app.run(debug=True)
