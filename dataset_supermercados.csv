@@ -1,1001 +1,1001 @@
 cliente,ciudad,supermercado,producto,precio,estacion,hora
-Lauren Hull,Barcelona,Bon Preu,Pasta,48.38,Invierno,14:00
-Richard White,Murcia,Dia,Manzanas,31.29,Invierno,17:00
-Monica Wells,Málaga,Alcampo,Huevos,6.03,Verano,15:00
-George Kennedy,Bilbao,Dia,Huevos,28.83,Verano,20:00
-Suzanne Garcia,Bilbao,Carrefour,Tomates,42.86,Primavera,15:00
-Keith Johnson,Las Palmas,Consum,Arroz,14.48,Primavera,18:00
-Kenneth Howell,Bilbao,Consum,Leche,29.65,Verano,09:00
-Heather Horton,Barcelona,Consum,Atún,30.41,Primavera,15:00
-Mr. Bradley Miller,Málaga,Carrefour,Pasta,23.63,Otoño,11:00
-Sara James,Valencia,Carrefour,Yogur,44.06,Primavera,15:00
-Bryan Hernandez,Zaragoza,Aldi,Pasta,39.41,Verano,08:00
-Nicole Chan,Sevilla,Carrefour,Leche,45.47,Otoño,11:00
-Juan Myers,Madrid,Dia,Leche,36.26,Verano,21:00
-Crystal Ford,Palma,Alcampo,Pasta,25.38,Verano,15:00
-Melanie Cook,Murcia,Alcampo,Tomates,2.64,Primavera,19:00
-Renee Parker,Zaragoza,Mercadona,Yogur,23.99,Invierno,17:00
-Kyle Howard,Barcelona,Lidl,Pan,5.29,Otoño,19:00
-Barbara Fox,Málaga,Aldi,Atún,44.76,Otoño,20:00
-Jeremy Sanders,Bilbao,Mercadona,Pasta,41.94,Invierno,08:00
-Kelly Lamb,Palma,Mercadona,Yogur,20.34,Otoño,10:00
-Mrs. Jasmine Weaver MD,Zaragoza,Mercadona,Yogur,16.86,Primavera,19:00
-Donald Miles,Málaga,Dia,Leche,14.28,Primavera,11:00
-Deborah Gross,Palma,Lidl,Pan,26.95,Invierno,11:00
-Mrs. Jennifer Carter,Málaga,Lidl,Pasta,41.24,Invierno,21:00
-Tiffany Burns,Bilbao,Eroski,Manzanas,25.82,Primavera,15:00
-Michele Durham,Barcelona,Aldi,Arroz,21.09,Invierno,09:00
-Jonathan Diaz,Valencia,Carrefour,Arroz,34.34,Primavera,14:00
-Tina Nelson,Las Palmas,Dia,Leche,49.06,Verano,16:00
-Debra Baker,Murcia,Carrefour,Pollo,17.37,Invierno,14:00
-Marvin Morales,Palma,Alcampo,Leche,37.7,Invierno,20:00
-Cody Mata,Madrid,Consum,Pan,31.51,Otoño,09:00
-Andrew Diaz,Barcelona,Eroski,Tomates,17.77,Invierno,08:00
-Ashley Ramos,Sevilla,Dia,Huevos,18.27,Invierno,11:00
-Samantha Smith,Sevilla,Eroski,Arroz,4.4,Verano,13:00
-Monica Villa,Palma,Alcampo,Yogur,30.76,Verano,12:00
-Mr. Jason Butler,Las Palmas,Lidl,Pasta,18.95,Verano,08:00
-Kelly Ramirez,Sevilla,Bon Preu,Huevos,13.12,Invierno,17:00
-Eugene Burgess,Madrid,Bon Preu,Huevos,16.05,Verano,16:00
-Mr. Johnny Parker,Zaragoza,Consum,Pollo,16.62,Primavera,18:00
-Ashley King,Madrid,Bon Preu,Tomates,15.23,Otoño,15:00
-Gina Pierce,Las Palmas,Mercadona,Leche,11.93,Verano,14:00
-Patrick Villegas,Valencia,Consum,Huevos,0.82,Invierno,09:00
-Tracy Austin,Palma,El Corte Inglés,Huevos,1.79,Primavera,18:00
-Megan Patel,Barcelona,Carrefour,Tomates,31.72,Otoño,17:00
-Tiffany Estrada,Málaga,El Corte Inglés,Arroz,13.28,Invierno,21:00
-Lauren York,Palma,El Corte Inglés,Pasta,28.72,Verano,11:00
-Charles Roberson,Murcia,Dia,Yogur,38.41,Invierno,14:00
-William Smith,Madrid,Dia,Atún,38.76,Otoño,14:00
-Monica Cook,Sevilla,Lidl,Pollo,30.13,Primavera,19:00
-John Ellis DDS,Bilbao,Eroski,Manzanas,38.43,Invierno,14:00
-Laura Henderson,Valencia,Eroski,Pasta,9.12,Invierno,11:00
-Tina Rodriguez,Bilbao,El Corte Inglés,Arroz,2.2,Primavera,08:00
-Marie Gordon,Sevilla,Consum,Arroz,21.92,Otoño,18:00
-Kenneth Schwartz,Valencia,Lidl,Leche,12.64,Verano,08:00
-Alyssa Owens,Málaga,El Corte Inglés,Leche,38.73,Invierno,09:00
-Jennifer Hardy,Las Palmas,Bon Preu,Pan,40.71,Primavera,18:00
-Caroline Dominguez,Sevilla,Bon Preu,Manzanas,30.46,Invierno,08:00
-Jason Flores,Murcia,Consum,Manzanas,30.63,Verano,17:00
-Rachel Brennan,Barcelona,Eroski,Leche,15.7,Primavera,16:00
-Tony Hernandez,Bilbao,Eroski,Yogur,7.01,Invierno,15:00
-John Martinez,Bilbao,Carrefour,Pollo,48.92,Primavera,21:00
-Steven Peters,Málaga,Bon Preu,Tomates,14.4,Otoño,08:00
-Ian Mccoy,Palma,Dia,Arroz,47.9,Otoño,21:00
-Tricia Simpson,Barcelona,Mercadona,Arroz,5.16,Otoño,10:00
-Jonathan Roberts,Valencia,Alcampo,Leche,28.83,Primavera,09:00
-John Foster,Murcia,Alcampo,Pollo,45.43,Otoño,17:00
-Ryan Johnston,Málaga,Lidl,Huevos,37.38,Verano,08:00
-Richard Nelson,Bilbao,Alcampo,Pasta,16.72,Invierno,21:00
-Michelle Johnson,Palma,Eroski,Manzanas,37.72,Primavera,12:00
-Robert Brown,Málaga,Dia,Yogur,27.37,Verano,10:00
-Sharon Morgan,Madrid,Alcampo,Yogur,7.17,Invierno,10:00
-Nathaniel Hamilton,Málaga,Consum,Pollo,22.17,Verano,19:00
-Jacob Johnson,Bilbao,Mercadona,Manzanas,36.25,Primavera,19:00
-Andrew Moore,Madrid,Alcampo,Atún,8.34,Otoño,20:00
-Dale Medina,Málaga,Alcampo,Tomates,35.49,Primavera,16:00
-Misty Curry,Madrid,Consum,Leche,7.32,Verano,11:00
-Christopher Peterson,Palma,Alcampo,Tomates,42.66,Verano,15:00
-Devin Mckinney,Barcelona,Mercadona,Atún,37.43,Primavera,16:00
-Sarah Mccall,Murcia,Alcampo,Pan,16.85,Primavera,10:00
-Emily Rojas,Sevilla,Mercadona,Tomates,31.27,Primavera,11:00
-Anthony Olson,Valencia,Bon Preu,Pan,33.21,Verano,12:00
-Michael Curtis,Zaragoza,Alcampo,Yogur,17.75,Primavera,18:00
-David Jones,Barcelona,Bon Preu,Arroz,12.22,Invierno,10:00
-Roger Vance,Las Palmas,El Corte Inglés,Pollo,30.42,Verano,13:00
-Sarah Knapp,Málaga,El Corte Inglés,Pasta,47.99,Primavera,21:00
-Nicholas Andrews,Sevilla,Dia,Arroz,17.17,Primavera,19:00
-Ian Thornton,Málaga,Eroski,Pasta,10.45,Primavera,11:00
-Adrienne Powell,Málaga,Dia,Pan,29.55,Primavera,12:00
-Ashley Walker,Bilbao,Dia,Pan,20.35,Verano,21:00
-Kevin Oliver,Bilbao,Bon Preu,Manzanas,41.24,Verano,21:00
-Crystal Delgado,Barcelona,Lidl,Manzanas,13.55,Verano,13:00
-Matthew Thompson,Bilbao,Dia,Huevos,47.45,Invierno,14:00
-Jessica Long,Málaga,Aldi,Pasta,20.41,Invierno,11:00
-Matthew Rodriguez,Palma,Eroski,Arroz,17.92,Otoño,12:00
-Kylie Reed,Zaragoza,Mercadona,Arroz,41.68,Primavera,18:00
-James Rogers,Zaragoza,Eroski,Pan,29.65,Verano,18:00
-Taylor Brown,Sevilla,Lidl,Atún,28.27,Invierno,11:00
-Francisco Livingston,Murcia,Aldi,Tomates,23.72,Otoño,10:00
-Roger Vance,Zaragoza,Eroski,Pollo,8.81,Primavera,15:00
-Joyce Macias,Las Palmas,Alcampo,Pan,16.9,Invierno,14:00
-Kyle Chavez,Bilbao,El Corte Inglés,Pollo,7.41,Otoño,12:00
-Renee Parks,Málaga,Carrefour,Arroz,45.28,Verano,18:00
-Jennifer Cain,Madrid,Consum,Yogur,40.97,Otoño,21:00
-Wendy Lewis,Las Palmas,Consum,Pollo,38.66,Verano,18:00
-Christopher Li,Bilbao,Consum,Atún,23.01,Verano,17:00
-Charles Rich,Bilbao,Mercadona,Tomates,7.16,Primavera,17:00
-Stephanie Barnett,Bilbao,Mercadona,Arroz,30.23,Invierno,19:00
-Kyle Howard,Palma,El Corte Inglés,Pasta,25.29,Verano,12:00
-Julie Brooks,Barcelona,Alcampo,Pan,9.59,Otoño,16:00
-Michelle Jones,Murcia,Carrefour,Manzanas,30.43,Primavera,15:00
-Drew Myers,Málaga,Dia,Yogur,3.31,Primavera,08:00
-Sean Friedman,Málaga,Consum,Arroz,20.75,Verano,09:00
-Kevin Alvarez,Zaragoza,Mercadona,Pasta,24.44,Invierno,16:00
-Paige Collins,Barcelona,Bon Preu,Tomates,38.99,Primavera,11:00
-Robert Rivera,Bilbao,Bon Preu,Arroz,10.11,Otoño,13:00
-William Howe,Zaragoza,El Corte Inglés,Pan,31.55,Primavera,13:00
-Walter Chung,Murcia,Mercadona,Leche,11.51,Invierno,13:00
-Elizabeth Avila,Barcelona,Eroski,Leche,40.01,Otoño,14:00
-Pamela Kent,Málaga,Lidl,Pasta,48.63,Otoño,12:00
-William Kim,Palma,Eroski,Manzanas,45.17,Verano,14:00
-Gina Pierce,Valencia,Bon Preu,Tomates,31.67,Invierno,20:00
-Stephanie Stafford,Zaragoza,Alcampo,Leche,43.54,Invierno,08:00
-Jerry Mathews,Bilbao,Mercadona,Huevos,49.3,Invierno,18:00
-Patricia Smith,Málaga,Bon Preu,Arroz,24.2,Otoño,14:00
-Amanda Gordon,Valencia,Dia,Huevos,11.61,Verano,09:00
-Rebecca Reed,Valencia,El Corte Inglés,Manzanas,29.79,Otoño,12:00
-James Mullins,Valencia,Aldi,Pollo,41.23,Verano,13:00
-Timothy Charles,Madrid,Aldi,Tomates,20.18,Invierno,19:00
-Jackie Knight,Madrid,Mercadona,Manzanas,20.55,Otoño,18:00
-Cynthia Martinez,Barcelona,Dia,Pollo,22.83,Otoño,20:00
-Barbara Robbins,Bilbao,Eroski,Huevos,4.54,Verano,20:00
-Sandra Mcdaniel DDS,Bilbao,Alcampo,Tomates,39.49,Invierno,18:00
-Sarah Delgado,Palma,Lidl,Yogur,43.49,Otoño,11:00
-David Smith,Barcelona,Lidl,Leche,28.7,Verano,16:00
-Steven Sanchez,Madrid,Eroski,Pasta,35.64,Otoño,18:00
-Robert Frey,Bilbao,Bon Preu,Yogur,20.66,Verano,17:00
-Cynthia Martinez,Palma,Mercadona,Pasta,4.2,Invierno,09:00
-Robert Taylor,Madrid,Dia,Leche,40.6,Primavera,20:00
-Charles Barber,Sevilla,Consum,Pollo,44.02,Invierno,21:00
-John Hall,Zaragoza,Consum,Arroz,17.55,Invierno,10:00
-Jeffrey Williams,Barcelona,Dia,Atún,31.12,Verano,15:00
-Aaron Poole,Barcelona,Carrefour,Manzanas,48.36,Invierno,15:00
-Brett Flores,Madrid,Aldi,Leche,14.15,Invierno,11:00
-Michael Miller,Barcelona,Mercadona,Tomates,5.08,Invierno,08:00
-Kristen Lester,Las Palmas,Mercadona,Pollo,0.63,Verano,08:00
-Gregory Smith,Madrid,Carrefour,Pasta,24.73,Invierno,18:00
-Sandra Mcdaniel DDS,Málaga,Bon Preu,Arroz,26.75,Otoño,09:00
-Samantha Lee,Málaga,El Corte Inglés,Yogur,24.53,Verano,17:00
-Gregory Lewis,Murcia,Lidl,Pan,42.3,Primavera,17:00
-Ryan Johnston,Zaragoza,Eroski,Pasta,46.65,Primavera,20:00
-Crystal Ford,Málaga,El Corte Inglés,Pan,6.02,Invierno,21:00
-Carol Bishop,Las Palmas,Consum,Atún,6.76,Verano,18:00
-David Jones,Las Palmas,Eroski,Pan,35.4,Verano,12:00
-Gerald Hull,Zaragoza,Consum,Arroz,18.49,Invierno,17:00
-Kristina Jimenez,Las Palmas,Aldi,Yogur,40.23,Primavera,19:00
-Faith Dunlap,Valencia,Lidl,Leche,4.52,Otoño,21:00
-Nicholas Long,Barcelona,Eroski,Manzanas,26.64,Verano,08:00
-Richard Nelson,Zaragoza,Dia,Pollo,11.09,Invierno,13:00
-Vanessa Bowers,Bilbao,Consum,Yogur,45.19,Primavera,08:00
-Nicholas Roth,Las Palmas,Carrefour,Pan,33.18,Verano,16:00
-Alyssa Fletcher,Málaga,Eroski,Huevos,43.66,Invierno,21:00
-Kyle Downs,Málaga,Mercadona,Tomates,43.94,Primavera,13:00
-Christopher Burns,Valencia,Lidl,Arroz,37.49,Verano,21:00
-Nicole Huffman,Madrid,Carrefour,Tomates,13.92,Otoño,16:00
-Brian Valencia,Palma,Consum,Atún,47.68,Otoño,10:00
-Nathaniel Garcia,Málaga,Lidl,Leche,32.6,Invierno,18:00
-Garrett Wagner,Málaga,Aldi,Pollo,7.29,Otoño,15:00
-Denise Browning,Valencia,Alcampo,Arroz,13.5,Otoño,11:00
-Ronald Bryant,Murcia,Bon Preu,Tomates,38.02,Invierno,10:00
-Tammy Kelley,Zaragoza,Lidl,Arroz,42.93,Invierno,20:00
-Curtis Rosales,Barcelona,El Corte Inglés,Yogur,25.86,Primavera,08:00
-Drew Myers,Palma,Alcampo,Manzanas,27.31,Otoño,13:00
-Whitney Bates,Sevilla,Eroski,Pan,12.76,Invierno,17:00
-Shannon Bradley,Las Palmas,Mercadona,Manzanas,0.67,Verano,11:00
-Jacqueline Larson,Valencia,Aldi,Pasta,3.08,Verano,18:00
-Pedro Hayes,Valencia,Consum,Leche,4.67,Otoño,15:00
-Jennifer Hardy,Las Palmas,Bon Preu,Arroz,5.13,Primavera,13:00
-Mia Phillips,Las Palmas,Bon Preu,Arroz,27.35,Primavera,14:00
-Pedro Benson,Murcia,Dia,Pan,22.82,Otoño,16:00
-Lisa Le,Barcelona,Consum,Yogur,19.51,Otoño,08:00
-Brandon Brown,Barcelona,Dia,Huevos,29.76,Invierno,13:00
-Angel Doyle,Barcelona,Eroski,Yogur,37.12,Primavera,20:00
-Brittney Murphy,Málaga,Consum,Manzanas,36.53,Primavera,17:00
-Tony Hernandez,Murcia,Dia,Pan,17.04,Invierno,15:00
-Melanie Cook,Palma,Carrefour,Pan,43.79,Verano,14:00
-Dawn Clark,Palma,El Corte Inglés,Manzanas,35.07,Invierno,16:00
-Debbie Garcia,Murcia,Bon Preu,Atún,32.62,Invierno,14:00
-Kiara Garcia,Zaragoza,Lidl,Leche,13.73,Otoño,20:00
-Brianna Garcia,Valencia,Carrefour,Huevos,46.25,Verano,13:00
-William Simmons,Madrid,Carrefour,Leche,23.74,Otoño,19:00
-Deborah Smith,Bilbao,Eroski,Leche,47.64,Primavera,16:00
-Dale Medina,Palma,Carrefour,Pollo,3.25,Primavera,10:00
-Jacob Franklin,Murcia,Lidl,Manzanas,26.49,Primavera,20:00
-Marcus Gibson MD,Bilbao,Eroski,Yogur,31.33,Primavera,11:00
-Denise Mitchell,Málaga,El Corte Inglés,Tomates,30.8,Primavera,09:00
-Elizabeth Brown,Barcelona,Eroski,Pan,17.97,Verano,19:00
-Carl Kelley,Zaragoza,El Corte Inglés,Yogur,21.78,Verano,21:00
-Aaron Thomas,Las Palmas,Eroski,Leche,31.15,Otoño,09:00
-Brett Reese,Valencia,Bon Preu,Yogur,38.32,Otoño,16:00
-Frank Moore,Sevilla,Aldi,Pasta,2.38,Primavera,17:00
-Christopher Garner,Málaga,Aldi,Yogur,17.78,Invierno,18:00
-Adrienne Powell,Zaragoza,Consum,Manzanas,47.02,Primavera,09:00
-Michael Jackson,Zaragoza,Carrefour,Leche,44.49,Verano,10:00
-Cynthia Key,Murcia,Carrefour,Leche,9.91,Verano,13:00
-John Martin,Murcia,Mercadona,Tomates,16.77,Verano,21:00
-Eric Arnold,Sevilla,Consum,Leche,4.21,Verano,08:00
-Richard Reyes,Murcia,Dia,Tomates,23.12,Invierno,16:00
-John Abbott,Zaragoza,Aldi,Manzanas,14.22,Otoño,13:00
-Larry Wright,Palma,Mercadona,Manzanas,31.87,Invierno,15:00
-Jacqueline Mccann,Zaragoza,Carrefour,Pasta,35.11,Verano,14:00
-Sheila Miller,Barcelona,Mercadona,Pan,30.92,Primavera,21:00
-Angela Carter,Málaga,Consum,Pollo,40.27,Verano,16:00
-Lisa Le,Las Palmas,Alcampo,Huevos,12.38,Otoño,12:00
-Victoria Collins,Málaga,Dia,Pan,1.09,Primavera,12:00
-Barbara Hicks,Málaga,Aldi,Atún,8.89,Verano,16:00
-Richard White,Málaga,Eroski,Yogur,28.12,Verano,15:00
-Shelley Williamson,Madrid,Consum,Atún,44.19,Verano,14:00
-Ryan Wiggins,Valencia,Carrefour,Leche,28.32,Verano,21:00
-Michelle Johnson,Valencia,Bon Preu,Manzanas,11.33,Invierno,13:00
-Mikayla Crawford,Zaragoza,Eroski,Pollo,9.7,Invierno,19:00
-Joanne Vasquez,Sevilla,Consum,Huevos,1.59,Invierno,20:00
-Amy Cox,Las Palmas,Mercadona,Pasta,7.14,Verano,11:00
-Rachel Tyler,Bilbao,Bon Preu,Manzanas,43.12,Primavera,10:00
-Scott Butler,Málaga,Consum,Yogur,39.19,Verano,21:00
-Richard White,Madrid,Bon Preu,Manzanas,11.93,Verano,13:00
-Wesley Mata,Zaragoza,Lidl,Yogur,3.45,Verano,16:00
-Jesus Ramirez,Palma,Bon Preu,Pollo,15.76,Primavera,16:00
-Robin Martin,Zaragoza,Mercadona,Pollo,8.15,Otoño,13:00
-Joanne Williams,Bilbao,Alcampo,Huevos,26.67,Primavera,08:00
-Kenneth Howell,Málaga,Aldi,Tomates,33.7,Primavera,15:00
-Daniel Garcia,Murcia,El Corte Inglés,Pasta,40.38,Invierno,21:00
-Cameron Franco,Zaragoza,Bon Preu,Yogur,25.56,Otoño,11:00
-Stanley Park,Sevilla,Eroski,Pasta,47.62,Invierno,20:00
-Raymond Hardy,Valencia,Dia,Tomates,23.8,Invierno,11:00
-Megan Stevenson,Palma,Eroski,Pollo,10.89,Primavera,09:00
-Sherri Glover,Barcelona,Lidl,Atún,0.84,Otoño,17:00
-Mrs. Gina Mcbride,Bilbao,Aldi,Pollo,24.35,Otoño,10:00
-Jacob Ryan,Málaga,Carrefour,Leche,27.66,Verano,08:00
-Bryan Bernard,Sevilla,Mercadona,Leche,2.55,Primavera,21:00
-Robert Gutierrez,Málaga,Aldi,Arroz,7.93,Otoño,15:00
-Tonya Sheppard,Las Palmas,Alcampo,Pollo,49.59,Primavera,20:00
-Marilyn Smith,Barcelona,Lidl,Pollo,13.62,Invierno,14:00
-Matthew Ramirez,Barcelona,Alcampo,Atún,16.16,Verano,10:00
-Gina Gordon,Madrid,Dia,Atún,11.88,Otoño,16:00
-Brett Flores,Barcelona,Consum,Leche,24.62,Invierno,17:00
-James Vasquez,Murcia,Consum,Huevos,22.58,Verano,14:00
-Donald Johnson,Palma,Consum,Atún,16.92,Verano,13:00
-Tina Allen,Palma,Consum,Pollo,41.93,Invierno,20:00
-Steven Clark,Madrid,Bon Preu,Huevos,17.13,Primavera,10:00
-Raymond Castillo,Málaga,Dia,Manzanas,38.21,Otoño,15:00
-Ronald Harvey,Madrid,Bon Preu,Huevos,23.07,Invierno,14:00
-Sara James,Sevilla,Bon Preu,Arroz,23.76,Invierno,10:00
-Shannon Woods,Madrid,Dia,Pollo,13.62,Verano,16:00
-David Perez,Palma,Lidl,Manzanas,35.28,Invierno,17:00
-Scott Powers,Zaragoza,El Corte Inglés,Tomates,48.83,Otoño,21:00
-Cynthia Hernandez MD,Bilbao,Carrefour,Pasta,38.89,Verano,16:00
-Brenda Andersen,Málaga,Eroski,Manzanas,37.69,Primavera,16:00
-Melody Smith,Madrid,Aldi,Atún,18.08,Verano,17:00
-Dominic Gray,Bilbao,Mercadona,Yogur,28.89,Invierno,11:00
-Hayley White,Bilbao,Lidl,Pollo,16.06,Verano,12:00
-Frank Johnson,Las Palmas,Carrefour,Tomates,36.47,Otoño,21:00
-Tiffany Burns,Barcelona,Lidl,Huevos,29.94,Invierno,21:00
-Hayley White,Zaragoza,Alcampo,Tomates,20.37,Otoño,20:00
-Patricia Smith,Palma,Carrefour,Huevos,49.17,Invierno,13:00
-Renee Miller,Palma,Dia,Huevos,48.33,Otoño,09:00
-Elizabeth Osborne,Bilbao,Consum,Leche,23.02,Verano,17:00
-Dominique Fleming,Bilbao,Dia,Leche,12.31,Otoño,12:00
-Brandon Richardson,Valencia,Mercadona,Arroz,8.22,Verano,15:00
-Larry Buchanan,Madrid,Eroski,Manzanas,40.35,Verano,14:00
-Bruce Castillo DVM,Bilbao,Aldi,Arroz,28.48,Verano,15:00
-Megan Murray,Sevilla,Bon Preu,Manzanas,32.12,Primavera,10:00
-Emily Bridges,Las Palmas,Dia,Pollo,20.47,Verano,10:00
-Gregory Sanchez,Barcelona,Mercadona,Yogur,16.61,Otoño,18:00
-Lisa Obrien,Málaga,El Corte Inglés,Yogur,14.86,Otoño,10:00
-Kelly Lamb,Bilbao,Lidl,Pan,17.13,Otoño,08:00
-Tanya Reynolds,Barcelona,Lidl,Arroz,12.47,Verano,13:00
-Donald Crawford,Valencia,Carrefour,Atún,5.61,Otoño,15:00
-Angel Doyle,Sevilla,Consum,Manzanas,10.01,Primavera,09:00
-Tyrone Gonzalez,Málaga,Aldi,Atún,5.78,Verano,19:00
-Erik Peterson,Valencia,Alcampo,Tomates,29.38,Invierno,19:00
-Katherine Navarro,Murcia,Dia,Tomates,6.58,Verano,16:00
-Timothy Hunt,Bilbao,Carrefour,Leche,31.51,Primavera,08:00
-Justin Wright,Málaga,Eroski,Tomates,47.43,Otoño,08:00
-Jacob Roach,Barcelona,Carrefour,Pasta,45.56,Otoño,20:00
-Carl Kelley,Zaragoza,Alcampo,Tomates,6.61,Primavera,21:00
-Whitney Bates,Palma,Bon Preu,Atún,39.55,Primavera,20:00
-John Rice,Las Palmas,Consum,Atún,28.52,Primavera,21:00
-Michael Lee,Las Palmas,Bon Preu,Tomates,25.3,Verano,15:00
-Sheila Miller,Murcia,Consum,Pasta,13.08,Otoño,08:00
-Patricia Raymond DDS,Málaga,Dia,Pan,9.35,Verano,13:00
-James Walker,Bilbao,Aldi,Arroz,40.44,Otoño,14:00
-Ryan Park,Barcelona,Bon Preu,Tomates,15.91,Primavera,13:00
-Tracy Austin,Madrid,Consum,Pan,39.0,Otoño,13:00
-Austin Black,Barcelona,Eroski,Atún,5.24,Primavera,12:00
-Jordan Little,Palma,Carrefour,Pollo,39.13,Otoño,13:00
-Alexander Cox,Madrid,Dia,Arroz,14.18,Verano,10:00
-Todd Thomas,Barcelona,Dia,Atún,9.14,Verano,21:00
-Johnny Mooney,Barcelona,Bon Preu,Atún,38.98,Primavera,13:00
-Michael Garrett,Murcia,Eroski,Pollo,3.73,Otoño,18:00
-Adam Taylor,Málaga,Carrefour,Huevos,31.37,Primavera,18:00
-Sarah Green,Murcia,Consum,Yogur,8.56,Invierno,08:00
-Melanie Morris,Palma,Mercadona,Pasta,0.98,Otoño,18:00
-Sarah Green,Barcelona,El Corte Inglés,Yogur,42.24,Primavera,19:00
-Christopher Alvarez,Zaragoza,El Corte Inglés,Leche,26.96,Otoño,10:00
-Kevin Ray,Barcelona,Eroski,Manzanas,10.85,Verano,13:00
-Robert Washington,Sevilla,Lidl,Pan,37.79,Primavera,16:00
-Walter Chung,Barcelona,Lidl,Manzanas,7.89,Otoño,15:00
-Tammy Kelley,Málaga,El Corte Inglés,Tomates,43.35,Invierno,14:00
-Michael Walker,Valencia,Carrefour,Tomates,19.25,Otoño,15:00
-Curtis Giles,Barcelona,Consum,Pan,6.0,Otoño,19:00
-Andrea Buck,Valencia,Eroski,Atún,15.11,Otoño,08:00
-Kirsten Thompson,Málaga,Dia,Arroz,46.73,Verano,15:00
-Elizabeth Avila,Sevilla,Alcampo,Yogur,47.88,Primavera,20:00
-Angela Hawkins,Sevilla,Alcampo,Huevos,29.17,Otoño,08:00
-Jacob Ryan,Málaga,Dia,Tomates,35.52,Invierno,16:00
-Randall Gray,Murcia,El Corte Inglés,Yogur,46.6,Verano,20:00
-Marissa Greene,Murcia,Aldi,Pollo,8.89,Otoño,09:00
-Mr. Bradley Miller,Murcia,Bon Preu,Pan,28.97,Otoño,14:00
-Walter Chung,Valencia,Carrefour,Pollo,45.36,Verano,18:00
-Margaret Johnson,Valencia,Consum,Yogur,31.0,Invierno,21:00
-Barbara Fox,Málaga,Aldi,Atún,46.15,Otoño,09:00
-Brian Valencia,Bilbao,Dia,Yogur,39.72,Verano,08:00
-Reginald Berry,Málaga,El Corte Inglés,Atún,31.26,Verano,14:00
-Tony Smith,Sevilla,Mercadona,Pollo,19.15,Otoño,19:00
-Gavin Harris,Murcia,Aldi,Atún,38.74,Primavera,19:00
-John Nguyen,Málaga,Lidl,Huevos,21.22,Verano,10:00
-Allison Montes,Palma,Consum,Manzanas,20.36,Verano,13:00
-John Nelson,Murcia,Aldi,Arroz,6.66,Primavera,10:00
-April Ferguson,Zaragoza,Eroski,Pasta,47.03,Verano,08:00
-Erik Bowman,Valencia,Eroski,Tomates,25.86,Invierno,10:00
-Jeanne Robinson,Murcia,Bon Preu,Atún,10.14,Primavera,14:00
-Marcus Gibson MD,Bilbao,Carrefour,Yogur,15.77,Primavera,08:00
-Jennifer Cain,Madrid,El Corte Inglés,Pollo,42.78,Primavera,21:00
-Steven Welch,Bilbao,Consum,Tomates,0.62,Primavera,13:00
-Heather Ward,Bilbao,Bon Preu,Yogur,42.24,Invierno,12:00
-Laurie Sutton,Las Palmas,Alcampo,Yogur,12.15,Otoño,19:00
-Alicia Thompson,Málaga,El Corte Inglés,Pasta,17.49,Invierno,21:00
-Raymond Hardy,Bilbao,Consum,Manzanas,33.0,Otoño,09:00
-Gavin Harris,Zaragoza,Dia,Pollo,23.65,Primavera,15:00
-Juan Morrow,Barcelona,Mercadona,Atún,0.92,Invierno,10:00
-Charles Roberson,Murcia,Carrefour,Pan,1.59,Otoño,14:00
-George Grant,Zaragoza,Alcampo,Tomates,5.92,Otoño,10:00
-Samantha Freeman,Valencia,Mercadona,Manzanas,11.8,Verano,18:00
-Jennifer Bryant,Málaga,Lidl,Arroz,18.38,Primavera,15:00
-James Martinez,Valencia,Bon Preu,Pan,49.69,Invierno,12:00
-Kyle Scott,Palma,Consum,Pasta,41.25,Otoño,19:00
-Ian Thornton,Zaragoza,Carrefour,Pollo,32.49,Invierno,18:00
-Gary Nichols,Barcelona,Carrefour,Tomates,41.88,Invierno,16:00
-Tanya Reynolds,Palma,Consum,Yogur,37.97,Verano,21:00
-Donald Johnson,Las Palmas,Carrefour,Arroz,24.89,Primavera,14:00
-Dr. Manuel Lane,Valencia,Carrefour,Arroz,39.52,Verano,14:00
-Tina Nelson,Málaga,Alcampo,Yogur,4.83,Invierno,08:00
-Veronica Ramirez,Sevilla,Dia,Huevos,6.37,Verano,17:00
-Charles Wallace,Valencia,Eroski,Yogur,35.61,Verano,18:00
-Timothy Charles,Málaga,Consum,Huevos,15.04,Primavera,08:00
-Scott Benson,Madrid,Lidl,Manzanas,27.54,Invierno,19:00
-Susan Anderson,Zaragoza,Carrefour,Pasta,6.91,Otoño,11:00
-Alexander Hays,Palma,Lidl,Pollo,46.18,Otoño,17:00
-Sherry Rivera,Palma,Dia,Leche,23.72,Primavera,11:00
-Carla Gray,Las Palmas,Lidl,Tomates,33.27,Otoño,11:00
-Lisa Obrien,Sevilla,Eroski,Leche,26.45,Verano,13:00
-Jonathan Roberts,Valencia,Dia,Huevos,24.97,Primavera,11:00
-Alexander Moore,Barcelona,Mercadona,Arroz,19.23,Otoño,20:00
-Emily Clayton,Murcia,Aldi,Huevos,20.59,Invierno,12:00
-Robert Rivera,Sevilla,Eroski,Leche,25.59,Invierno,12:00
-Ronald Gates,Valencia,Lidl,Arroz,14.78,Otoño,08:00
-Stephen Marks,Las Palmas,Consum,Arroz,20.46,Verano,13:00
-Crystal Ford,Madrid,Lidl,Yogur,18.04,Verano,09:00
-Yvonne Woods,Barcelona,Bon Preu,Pan,11.38,Invierno,18:00
-Rachel Tyler,Sevilla,Mercadona,Pasta,4.85,Verano,10:00
-James Walker,Málaga,Carrefour,Manzanas,37.82,Verano,12:00
-Paige Collins,Valencia,Aldi,Yogur,20.87,Invierno,12:00
-Hayley White,Málaga,Aldi,Pasta,29.64,Primavera,14:00
-Erik Peterson,Madrid,Bon Preu,Yogur,10.72,Verano,17:00
-Nicholas Andrews,Palma,Carrefour,Pasta,33.7,Primavera,17:00
-Richard Peters,Sevilla,El Corte Inglés,Huevos,49.08,Invierno,12:00
-Sally Gibson,Las Palmas,Consum,Tomates,36.48,Verano,16:00
-Charles Rich,Barcelona,El Corte Inglés,Atún,30.6,Verano,19:00
-Marilyn Smith,Valencia,Consum,Huevos,7.57,Otoño,18:00
-Christina Harvey,Barcelona,Consum,Atún,8.34,Verano,11:00
-Joseph Becker,Valencia,Aldi,Tomates,20.14,Invierno,12:00
-Andrew Dennis,Zaragoza,Bon Preu,Pasta,21.99,Verano,08:00
-Craig Hobbs,Palma,Mercadona,Pan,37.38,Primavera,13:00
-Keith Wang,Sevilla,Lidl,Tomates,20.85,Verano,14:00
-Jackie Knight,Málaga,Lidl,Leche,9.97,Otoño,14:00
-Brandon Park,Palma,Carrefour,Yogur,26.89,Primavera,13:00
-Madison Burch,Barcelona,Alcampo,Yogur,31.76,Invierno,14:00
-Mrs. Olivia Watts,Las Palmas,Eroski,Leche,46.87,Otoño,08:00
-John Abbott,Barcelona,Dia,Tomates,23.16,Primavera,14:00
-Kyle Davis,Murcia,Aldi,Pollo,28.2,Verano,20:00
-Christopher Burns,Palma,Bon Preu,Arroz,11.67,Verano,18:00
-Eric Burke,Madrid,El Corte Inglés,Arroz,33.41,Primavera,15:00
-Melissa Sherman,Valencia,Dia,Huevos,29.04,Invierno,10:00
-Michelle Barry,Murcia,Eroski,Tomates,33.31,Primavera,20:00
-Jamie Henry,Bilbao,Bon Preu,Pollo,40.16,Verano,13:00
-Pamela Kent,Barcelona,Consum,Manzanas,0.9,Verano,09:00
-Larry Buchanan,Zaragoza,Carrefour,Pollo,4.31,Verano,21:00
-Garrett Wagner,Madrid,Bon Preu,Yogur,48.95,Primavera,19:00
-Larry Wright,Zaragoza,Aldi,Leche,20.07,Otoño,19:00
-Randall Gray,Zaragoza,El Corte Inglés,Leche,42.1,Otoño,18:00
-Sean Friedman,Murcia,Aldi,Pan,10.11,Verano,15:00
-Steven Mcmillan,Las Palmas,Aldi,Pollo,20.47,Primavera,21:00
-Dwayne Mendoza,Madrid,Consum,Pollo,30.15,Otoño,18:00
-Walter Reynolds,Sevilla,Aldi,Pollo,21.84,Verano,20:00
-Suzanne Garcia,Murcia,El Corte Inglés,Pollo,24.41,Invierno,11:00
-Andrea Hammond,Bilbao,Dia,Manzanas,8.61,Otoño,19:00
-Samuel Frazier,Murcia,Mercadona,Yogur,20.1,Otoño,09:00
-Paul Haynes,Bilbao,Alcampo,Manzanas,45.67,Verano,10:00
-Tony Hernandez,Palma,Bon Preu,Pollo,38.46,Invierno,18:00
-Renee Parks,Bilbao,Aldi,Pasta,9.74,Primavera,17:00
-Emily Green PhD,Palma,Consum,Tomates,43.2,Verano,12:00
-Jason Flores,Zaragoza,Lidl,Pollo,20.88,Invierno,20:00
-Tyler Rosales DDS,Murcia,Mercadona,Pasta,33.65,Otoño,11:00
-Amy Bishop,Sevilla,Mercadona,Manzanas,38.32,Verano,11:00
-Alex Cooper,Bilbao,Eroski,Tomates,9.35,Verano,16:00
-Christopher Hobbs,Barcelona,Alcampo,Pollo,0.97,Otoño,12:00
-Stacey Gonzalez,Madrid,Carrefour,Leche,14.18,Primavera,12:00
-Michael Lewis,Barcelona,Consum,Leche,9.66,Invierno,16:00
-Andrew Hill,Madrid,Alcampo,Pasta,18.13,Invierno,15:00
-Natalie Thompson,Las Palmas,Dia,Arroz,22.42,Verano,17:00
-Natalie Ellis,Palma,Aldi,Manzanas,49.98,Verano,21:00
-Brandon Richardson,Murcia,Mercadona,Pollo,47.3,Verano,19:00
-Todd Ramirez,Las Palmas,Carrefour,Leche,33.95,Invierno,19:00
-Jesus Ramirez,Málaga,Dia,Yogur,8.25,Otoño,10:00
-Alex Cooper,Valencia,Lidl,Leche,5.63,Primavera,11:00
-April Carter,Madrid,Consum,Arroz,2.77,Verano,18:00
-Peter Johnson,Palma,Carrefour,Atún,30.29,Invierno,09:00
-Mr. Jason Butler,Málaga,El Corte Inglés,Leche,10.27,Primavera,21:00
-Jonathan Roberts,Bilbao,El Corte Inglés,Arroz,17.5,Primavera,12:00
-Tammy Turner,Valencia,Carrefour,Pan,17.84,Primavera,11:00
-Rachel Poole,Sevilla,Consum,Tomates,28.09,Invierno,19:00
-Morgan Montoya,Madrid,Mercadona,Pan,30.89,Otoño,13:00
-Kimberly Diaz,Madrid,Eroski,Pollo,29.61,Verano,18:00
-Jacqueline Morris,Sevilla,Carrefour,Huevos,20.01,Verano,15:00
-Jacob Garrison,Palma,Mercadona,Pasta,33.35,Otoño,12:00
-Marie Sellers MD,Barcelona,Aldi,Pollo,6.45,Verano,17:00
-Leah Haney,Sevilla,Aldi,Pasta,2.99,Verano,14:00
-Kevin Oliver,Las Palmas,Mercadona,Huevos,27.54,Invierno,09:00
-Marilyn Morgan,Bilbao,Carrefour,Yogur,3.1,Otoño,10:00
-Steven Mcmillan,Valencia,Carrefour,Pasta,20.66,Primavera,20:00
-David Jones,Sevilla,Carrefour,Pan,26.43,Verano,09:00
-Juan Porter,Málaga,Carrefour,Leche,34.61,Verano,18:00
-Nichole Miles,Palma,Alcampo,Tomates,19.57,Verano,13:00
-Michael Garrett,Valencia,Aldi,Manzanas,44.05,Otoño,16:00
-Casey Martinez,Sevilla,Bon Preu,Huevos,27.44,Otoño,08:00
-Ryan Gonzalez,Murcia,Consum,Huevos,13.88,Verano,13:00
-Alicia Thompson,Valencia,Consum,Atún,20.5,Primavera,13:00
-Marcus Maldonado,Barcelona,Dia,Tomates,43.92,Invierno,19:00
-Deborah Curtis,Valencia,Mercadona,Manzanas,22.87,Primavera,09:00
-Maria Smith,Murcia,Carrefour,Pollo,49.91,Otoño,20:00
-Timothy Rodriguez,Barcelona,Lidl,Pan,18.52,Primavera,21:00
-Kyle Davis,Barcelona,Aldi,Atún,5.83,Verano,12:00
-Kayla Barr,Málaga,Consum,Pan,47.26,Primavera,14:00
-Daniel Fowler,Murcia,Carrefour,Arroz,31.15,Otoño,10:00
-Mr. Christopher Duffy,Barcelona,Carrefour,Yogur,6.89,Primavera,18:00
-Beth Miller,Barcelona,Mercadona,Arroz,41.06,Primavera,09:00
-Julie Escobar,Zaragoza,Eroski,Manzanas,23.21,Invierno,10:00
-Brenda Rich,Valencia,Dia,Pan,42.55,Invierno,21:00
-Erin Hill,Palma,Mercadona,Pollo,34.59,Primavera,11:00
-Stephen Miller,Valencia,Eroski,Leche,49.74,Primavera,20:00
-Ricky Rogers,Barcelona,Consum,Huevos,18.85,Verano,16:00
-Brandon Zimmerman,Bilbao,Aldi,Yogur,17.55,Invierno,18:00
-Jessica Long,Valencia,Dia,Tomates,3.43,Verano,13:00
-Eric Brown,Valencia,Consum,Leche,42.0,Invierno,20:00
-Samantha Burgess,Las Palmas,Aldi,Atún,25.67,Primavera,16:00
-Jamie Gordon,Valencia,Carrefour,Huevos,9.44,Primavera,12:00
-Kathryn Gonzalez,Bilbao,Carrefour,Manzanas,29.22,Primavera,20:00
-Barbara Robbins,Zaragoza,Bon Preu,Huevos,8.31,Invierno,13:00
-Robert Johnston,Las Palmas,Eroski,Pasta,39.45,Invierno,18:00
-Ronald Gates,Bilbao,Alcampo,Atún,36.44,Invierno,09:00
-Daniel Fowler,Valencia,Mercadona,Atún,4.83,Invierno,13:00
-Christina Taylor,Palma,Carrefour,Arroz,31.09,Verano,08:00
-Joshua Ortega,Las Palmas,Bon Preu,Manzanas,40.88,Otoño,18:00
-Maria Smith,Las Palmas,Alcampo,Tomates,35.18,Invierno,20:00
-Ashley Clark,Las Palmas,Eroski,Leche,3.65,Otoño,14:00
-James Lewis,Bilbao,Eroski,Tomates,40.43,Primavera,18:00
-Jeffery Anderson,Valencia,Mercadona,Tomates,46.4,Otoño,16:00
-Kristen Lester,Sevilla,El Corte Inglés,Leche,30.87,Invierno,15:00
-Marvin Morales,Palma,Alcampo,Pan,49.84,Verano,15:00
-Cassandra Phelps,Málaga,El Corte Inglés,Manzanas,27.51,Primavera,18:00
-Michael Nichols,Murcia,Carrefour,Huevos,10.63,Otoño,08:00
-Kelly Lamb,Barcelona,Bon Preu,Manzanas,14.44,Invierno,08:00
-Lauren Hull,Palma,Mercadona,Tomates,18.04,Verano,15:00
-Jamie Stewart,Madrid,Eroski,Atún,30.88,Otoño,20:00
-Jaime Watson,Barcelona,Alcampo,Yogur,49.41,Invierno,14:00
-Michael Walker,Barcelona,Alcampo,Pan,26.92,Primavera,21:00
-Christopher Alvarez,Palma,El Corte Inglés,Yogur,15.28,Verano,14:00
-Bailey Goodwin,Sevilla,Dia,Arroz,1.72,Otoño,08:00
-Larry Buchanan,Bilbao,Lidl,Arroz,42.48,Verano,13:00
-Mary Graves,Zaragoza,Alcampo,Manzanas,12.21,Primavera,20:00
-Joyce Macias,Palma,El Corte Inglés,Pan,43.97,Invierno,16:00
-Samantha Butler,Málaga,Dia,Huevos,19.63,Invierno,18:00
-Victoria Cruz,Zaragoza,Lidl,Pollo,27.88,Otoño,20:00
-Rebecca Hopkins,Zaragoza,Aldi,Tomates,22.63,Invierno,18:00
-Albert Allen,Madrid,El Corte Inglés,Tomates,45.56,Invierno,16:00
-Ronald Bryant,Barcelona,Consum,Manzanas,26.94,Otoño,08:00
-Christopher Richards,Palma,El Corte Inglés,Pasta,26.31,Otoño,15:00
-Steven Mcmillan,Málaga,Eroski,Atún,38.31,Invierno,18:00
-Nichole Miles,Murcia,Carrefour,Tomates,5.83,Invierno,14:00
-Joseph Garcia,Málaga,Lidl,Huevos,32.57,Otoño,09:00
-Scott Benson,Barcelona,Bon Preu,Manzanas,34.16,Verano,20:00
-Matthew Greene,Murcia,Aldi,Yogur,9.09,Verano,21:00
-Ronald Gates,Barcelona,Alcampo,Pan,26.57,Primavera,12:00
-Kristen Jennings,Zaragoza,Eroski,Pan,47.37,Otoño,16:00
-Samantha Grant,Murcia,Carrefour,Arroz,20.42,Primavera,18:00
-Matthew Flores,Bilbao,Aldi,Pan,5.77,Invierno,08:00
-Taylor Brown,Palma,El Corte Inglés,Pasta,33.1,Otoño,09:00
-Carolyn Stein,Bilbao,Mercadona,Tomates,19.02,Verano,08:00
-Mrs. Amanda Mitchell,Barcelona,Alcampo,Huevos,42.93,Otoño,15:00
-Ernest Lewis,Palma,Mercadona,Atún,49.73,Otoño,14:00
-Timothy Fuentes,Sevilla,Lidl,Huevos,27.39,Invierno,15:00
-Vincent Miller,Murcia,Alcampo,Pan,25.57,Invierno,13:00
-Laura Davis,Palma,Consum,Arroz,8.46,Otoño,17:00
-Amber Short,Murcia,Consum,Atún,35.06,Otoño,12:00
-Cameron Mcgee,Barcelona,Lidl,Pan,17.84,Primavera,19:00
-Brian Santiago,Murcia,Alcampo,Tomates,34.15,Verano,17:00
-Veronica Ramirez,Sevilla,Bon Preu,Pollo,16.12,Verano,11:00
-Eric Arnold,Las Palmas,Bon Preu,Pollo,11.39,Invierno,20:00
-Daniel Garcia,Bilbao,Mercadona,Atún,30.1,Otoño,17:00
-Jamie Stewart,Madrid,Consum,Pollo,6.83,Otoño,20:00
-Ryan Whitehead,Madrid,Eroski,Manzanas,7.55,Invierno,08:00
-Angela King,Murcia,Carrefour,Pasta,18.44,Otoño,13:00
-William Wise,Málaga,Eroski,Pasta,21.77,Invierno,18:00
-Paul Davila,Madrid,Carrefour,Leche,31.47,Otoño,16:00
-Mitchell Jones,Sevilla,Consum,Leche,22.59,Invierno,21:00
-Matthew Flores,Málaga,Aldi,Manzanas,22.08,Invierno,13:00
-Crystal Graves,Madrid,Bon Preu,Pollo,49.61,Otoño,18:00
-Kim Stephens,Bilbao,Aldi,Leche,35.54,Primavera,20:00
-Austin Black,Murcia,Mercadona,Manzanas,44.61,Verano,14:00
-Keith Wang,Madrid,Mercadona,Yogur,45.67,Primavera,13:00
-Charles Butler,Madrid,Lidl,Atún,48.32,Verano,12:00
-Scott Benson,Bilbao,Alcampo,Pollo,49.86,Otoño,08:00
-Anthony Olson,Sevilla,Aldi,Pollo,22.28,Invierno,08:00
-Christopher Estrada,Barcelona,Bon Preu,Pollo,5.82,Verano,20:00
-Suzanne Garcia,Valencia,Carrefour,Tomates,49.35,Otoño,19:00
-Brandon Richardson,Murcia,Consum,Atún,23.07,Invierno,14:00
-Stacy Diaz,Murcia,El Corte Inglés,Pollo,43.07,Verano,20:00
-Samantha Lee,Málaga,Carrefour,Arroz,22.41,Invierno,09:00
-Christina Huerta,Murcia,Aldi,Pollo,1.48,Primavera,20:00
-Mr. Trevor Castaneda,Barcelona,Consum,Atún,14.36,Invierno,19:00
-Tyrone Gonzalez,Valencia,Consum,Manzanas,9.57,Invierno,21:00
-Sean Friedman,Bilbao,Eroski,Atún,34.43,Invierno,14:00
-Carl Kelley,Zaragoza,Carrefour,Atún,38.16,Invierno,14:00
-Isaiah Burns,Madrid,El Corte Inglés,Huevos,20.85,Primavera,15:00
-Bailey Martinez,Sevilla,Bon Preu,Leche,1.45,Otoño,12:00
-Alexander Johnson,Valencia,Alcampo,Atún,5.67,Otoño,18:00
-Dr. William Ward,Palma,Lidl,Manzanas,30.74,Primavera,18:00
-David Schultz,Valencia,Lidl,Tomates,46.12,Verano,19:00
-Scott Butler,Zaragoza,Aldi,Pasta,39.33,Otoño,11:00
-Sandra Ellis,Palma,Mercadona,Atún,13.64,Invierno,12:00
-Edward James,Bilbao,Alcampo,Yogur,9.79,Otoño,20:00
-Douglas Moreno,Valencia,Aldi,Pasta,6.94,Verano,15:00
-Anna Carpenter,Madrid,Dia,Manzanas,37.12,Invierno,09:00
-Bruce Castillo DVM,Valencia,Dia,Leche,20.76,Verano,20:00
-Scott Neal,Málaga,Aldi,Atún,22.54,Otoño,13:00
-Ethan Roach,Sevilla,El Corte Inglés,Manzanas,42.93,Verano,21:00
-George Grant,Barcelona,El Corte Inglés,Pasta,32.39,Primavera,15:00
-Traci Hunt,Palma,Lidl,Arroz,46.24,Otoño,13:00
-Jessica Proctor,Barcelona,Dia,Huevos,41.96,Verano,15:00
-Sandra Edwards,Barcelona,Lidl,Huevos,43.26,Otoño,10:00
-Kimberly Brown,Zaragoza,Bon Preu,Arroz,49.49,Verano,19:00
-Victoria Roberson,Palma,Lidl,Pan,27.87,Otoño,14:00
-Michael Gould,Bilbao,Eroski,Huevos,29.48,Invierno,17:00
-Jason Hall,Madrid,Consum,Huevos,23.11,Primavera,14:00
-Melissa Love,Palma,Dia,Leche,6.86,Verano,08:00
-Anthony Miles,Bilbao,Carrefour,Pollo,34.02,Otoño,08:00
-Joyce Macias,Málaga,Bon Preu,Pan,2.23,Verano,14:00
-Angie Cruz,Bilbao,Consum,Pasta,38.92,Invierno,21:00
-Michael Walker,Madrid,Eroski,Huevos,22.5,Verano,14:00
-Austin Willis,Zaragoza,Aldi,Manzanas,34.23,Verano,13:00
-Megan Patel,Zaragoza,Consum,Pasta,42.61,Primavera,21:00
-Andrew Ryan,Málaga,Dia,Atún,20.18,Otoño,20:00
-Hayley Fox,Zaragoza,Consum,Yogur,6.5,Verano,11:00
-Barbara Hicks,Murcia,El Corte Inglés,Leche,15.96,Invierno,14:00
-April Ferguson,Valencia,Consum,Pasta,13.65,Verano,20:00
-Karen Hunter,Madrid,Aldi,Huevos,25.57,Invierno,12:00
-Gerald Hull,Bilbao,Eroski,Manzanas,18.06,Verano,17:00
-Marcus Maldonado,Zaragoza,Alcampo,Pasta,40.27,Primavera,20:00
-Nathan Smith,Bilbao,Aldi,Huevos,4.84,Verano,16:00
-Helen Hernandez,Las Palmas,El Corte Inglés,Huevos,5.31,Invierno,08:00
-Colin Powell,Málaga,Eroski,Tomates,24.8,Invierno,08:00
-Stacy Diaz,Bilbao,Carrefour,Manzanas,9.9,Invierno,17:00
-Nicholas Gilmore,Málaga,Consum,Pollo,9.41,Otoño,09:00
-Kevin Hernandez,Murcia,Alcampo,Pollo,3.06,Primavera,21:00
-Jennifer Schwartz,Murcia,Dia,Yogur,2.37,Verano,08:00
-Dominic Gray,Málaga,El Corte Inglés,Huevos,38.23,Otoño,10:00
-Michael Frye,Málaga,Lidl,Pasta,14.38,Primavera,19:00
-Jamie Stewart,Las Palmas,Eroski,Atún,9.88,Primavera,08:00
-Katherine Navarro,Palma,Dia,Tomates,48.3,Invierno,14:00
-Jean Jimenez,Murcia,Alcampo,Huevos,9.24,Invierno,18:00
-Jessica Stanton,Palma,Mercadona,Manzanas,47.07,Primavera,17:00
-Brett Smith,Palma,Lidl,Arroz,29.67,Primavera,21:00
-Andrea Simpson,Las Palmas,Consum,Pollo,19.26,Otoño,21:00
-Erik Bowman,Málaga,Mercadona,Pan,21.68,Primavera,21:00
-Mia Phillips,Valencia,Lidl,Pollo,30.79,Invierno,09:00
-Michael Mclaughlin,Valencia,Lidl,Arroz,2.02,Verano,10:00
-Samantha Lee,Zaragoza,Dia,Tomates,48.56,Verano,20:00
-Dustin Jackson,Málaga,El Corte Inglés,Leche,24.62,Invierno,20:00
-Chase Garcia,Madrid,Eroski,Huevos,32.07,Invierno,16:00
-Misty Curry,Madrid,El Corte Inglés,Yogur,20.5,Invierno,18:00
-Katherine Baker,Sevilla,Carrefour,Pasta,42.3,Otoño,21:00
-Nicholas Cummings,Palma,Eroski,Huevos,6.06,Otoño,19:00
-Kimberly Powell,Málaga,Eroski,Yogur,8.3,Invierno,13:00
-Beth Miller,Palma,Alcampo,Manzanas,25.35,Primavera,12:00
-Jeffery Anderson,Zaragoza,El Corte Inglés,Arroz,3.36,Otoño,15:00
-Luis Benitez,Murcia,Alcampo,Manzanas,19.5,Otoño,08:00
-David Smith,Las Palmas,Mercadona,Leche,36.98,Otoño,21:00
-Scott Lee,Zaragoza,Alcampo,Pasta,41.41,Verano,21:00
-Melissa Nelson,Madrid,Eroski,Pollo,28.01,Primavera,16:00
-Anna Carpenter,Palma,Mercadona,Leche,32.26,Invierno,19:00
-Ricky Rogers,Bilbao,Bon Preu,Pan,32.36,Verano,15:00
-Michael Frye,Málaga,Aldi,Yogur,7.73,Primavera,18:00
-Victoria Dickerson,Las Palmas,Mercadona,Yogur,36.87,Verano,09:00
-Tammy Kelley,Palma,Alcampo,Huevos,35.57,Invierno,12:00
-John Yates,Sevilla,El Corte Inglés,Pasta,47.04,Otoño,16:00
-Katherine Baker,Las Palmas,Aldi,Pollo,49.43,Verano,21:00
-Nicholas Andrews,Málaga,Mercadona,Pasta,39.21,Primavera,08:00
-Wesley Larson,Palma,El Corte Inglés,Leche,26.91,Verano,17:00
-Joyce Macias,Málaga,Alcampo,Leche,36.56,Primavera,14:00
-Selena King,Barcelona,Mercadona,Yogur,32.11,Otoño,15:00
-Cameron Franco,Murcia,El Corte Inglés,Pasta,13.91,Otoño,20:00
-Erik Harris,Málaga,Mercadona,Yogur,49.85,Otoño,21:00
-Pedro Benson,Málaga,Alcampo,Pollo,8.84,Otoño,11:00
-Derek Summers,Palma,El Corte Inglés,Huevos,41.77,Invierno,20:00
-Roger Vance,Las Palmas,El Corte Inglés,Yogur,32.34,Primavera,09:00
-Rebecca Hopkins,Murcia,Eroski,Arroz,22.92,Otoño,10:00
-Ronald Bryant,Murcia,El Corte Inglés,Arroz,36.24,Verano,16:00
-Jean Jimenez,Málaga,Lidl,Manzanas,32.86,Otoño,21:00
-Nicholas Long,Valencia,El Corte Inglés,Leche,37.61,Verano,13:00
-Mark Young,Barcelona,Eroski,Huevos,28.66,Otoño,11:00
-Michael Frye,Sevilla,El Corte Inglés,Pollo,49.39,Otoño,21:00
-Caroline Dominguez,Madrid,Dia,Atún,37.33,Otoño,21:00
-Carl Davis,Palma,El Corte Inglés,Atún,1.66,Otoño,18:00
-Christine Bartlett,Bilbao,Alcampo,Huevos,4.96,Primavera,16:00
-Michael Miller,Málaga,Consum,Arroz,44.03,Verano,19:00
-Ryan Wiggins,Murcia,El Corte Inglés,Atún,40.99,Otoño,15:00
-Paul Davila,Barcelona,Alcampo,Arroz,33.42,Invierno,08:00
-Karen Mcpherson,Bilbao,Dia,Pollo,12.1,Otoño,08:00
-Travis Durham,Zaragoza,Consum,Pasta,26.91,Primavera,09:00
-Lisa Madden,Valencia,El Corte Inglés,Manzanas,7.47,Verano,09:00
-Derrick Palmer,Barcelona,El Corte Inglés,Manzanas,31.24,Verano,08:00
-James Deleon,Málaga,El Corte Inglés,Tomates,14.5,Otoño,10:00
-Jeffery Mora,Las Palmas,Consum,Atún,39.5,Invierno,14:00
-Peter Johnson,Málaga,Mercadona,Manzanas,27.78,Verano,15:00
-Charles Payne,Murcia,Alcampo,Huevos,29.99,Primavera,13:00
-Paula Hill,Málaga,Aldi,Leche,29.78,Primavera,15:00
-Randall Gray,Palma,Aldi,Pan,29.84,Verano,11:00
-Jeffrey Williams,Sevilla,Dia,Arroz,18.0,Verano,09:00
-David Blair,Las Palmas,Bon Preu,Huevos,25.7,Otoño,18:00
-Lauren York,Palma,Mercadona,Tomates,15.17,Primavera,09:00
-Stephanie Leonard,Barcelona,Dia,Yogur,12.03,Invierno,14:00
-Anna Yates,Sevilla,Eroski,Yogur,36.78,Primavera,15:00
-Dr. Melissa Russell,Las Palmas,El Corte Inglés,Manzanas,19.79,Primavera,10:00
-Dennis Williams,Bilbao,Alcampo,Atún,11.06,Verano,08:00
-Mr. Bradley Miller,Barcelona,Aldi,Leche,13.32,Verano,15:00
-Jason Hicks,Zaragoza,Dia,Yogur,6.19,Otoño,12:00
-Eric Burke,Las Palmas,Consum,Atún,49.36,Primavera,19:00
-April Ferguson,Murcia,Aldi,Leche,16.87,Verano,14:00
-John Nguyen,Palma,Dia,Atún,27.29,Primavera,10:00
-Tiffany Burns,Zaragoza,Consum,Arroz,46.36,Otoño,16:00
-Keith Wang,Málaga,Consum,Pollo,39.43,Verano,21:00
-James Deleon,Murcia,Lidl,Pollo,36.38,Otoño,11:00
-Catherine Becker,Sevilla,Bon Preu,Yogur,11.72,Invierno,15:00
-Shannon Bradley,Valencia,El Corte Inglés,Pasta,36.89,Verano,13:00
-Christopher Compton,Murcia,Lidl,Pasta,13.7,Invierno,15:00
-Ryan Jenkins,Las Palmas,Carrefour,Pollo,27.98,Primavera,19:00
-Teresa Jones,Madrid,Bon Preu,Pollo,25.17,Verano,19:00
-Whitney Bates,Madrid,Bon Preu,Pan,36.05,Verano,10:00
-Kimberly Diaz,Málaga,El Corte Inglés,Pan,17.66,Otoño,14:00
-Barbara Robbins,Palma,Mercadona,Manzanas,29.2,Otoño,11:00
-Michael Gould,Sevilla,Mercadona,Arroz,39.74,Otoño,18:00
-Juan Porter,Murcia,Bon Preu,Atún,49.6,Otoño,21:00
-Stephen Miller,Madrid,Dia,Arroz,49.63,Primavera,16:00
-Donna Shaffer,Palma,Alcampo,Atún,21.12,Otoño,15:00
-Robert Taylor,Barcelona,Dia,Leche,7.75,Primavera,14:00
-Alyssa Fletcher,Las Palmas,Eroski,Pan,1.69,Otoño,20:00
-James Jacobs,Barcelona,Bon Preu,Huevos,23.1,Verano,08:00
-Laura Rose,Bilbao,Dia,Pan,32.9,Primavera,21:00
-David Perez,Palma,Bon Preu,Arroz,6.38,Invierno,19:00
-Alexander Bridges,Madrid,Carrefour,Pan,42.95,Primavera,14:00
-Debbie Wells,Madrid,Dia,Manzanas,11.53,Invierno,12:00
-Jacob Lee,Sevilla,Mercadona,Pan,45.1,Otoño,09:00
-Valerie Holland,Málaga,Aldi,Leche,43.6,Otoño,09:00
-Rachel Tyler,Madrid,Eroski,Pasta,43.52,Invierno,17:00
-Haley Howard,Barcelona,Bon Preu,Pasta,15.64,Invierno,09:00
-Eugene Burgess,Palma,Mercadona,Pan,42.09,Primavera,12:00
-Connie Scott,Sevilla,Aldi,Yogur,21.12,Verano,12:00
-Shelley Reynolds,Palma,Alcampo,Atún,37.47,Verano,08:00
-Vincent Miller,Sevilla,Bon Preu,Pollo,15.89,Primavera,19:00
-Kenneth Huang,Zaragoza,Mercadona,Leche,40.09,Verano,18:00
-Thomas Adams,Madrid,Bon Preu,Tomates,25.53,Primavera,14:00
-Rebecca Robles,Las Palmas,Carrefour,Arroz,39.69,Verano,19:00
-Tiffany Estrada,Las Palmas,Eroski,Leche,47.97,Invierno,15:00
-Tiffany Prince,Bilbao,Eroski,Huevos,15.9,Otoño,20:00
-April Carter,Valencia,Aldi,Pan,12.53,Verano,14:00
-Jeffery Baker,Murcia,Eroski,Arroz,0.57,Invierno,13:00
-Stacy Diaz,Valencia,Consum,Pollo,2.92,Otoño,18:00
-John Nelson,Las Palmas,Carrefour,Yogur,29.99,Invierno,16:00
-Nicholas Black,Palma,Mercadona,Huevos,5.17,Invierno,21:00
-Brian Valencia,Bilbao,Bon Preu,Pollo,3.16,Primavera,20:00
-Gina Gordon,Las Palmas,Bon Preu,Manzanas,13.41,Invierno,18:00
-Ryan Shelton,Madrid,Bon Preu,Manzanas,42.28,Verano,09:00
-Tanya Reynolds,Valencia,Lidl,Leche,8.16,Otoño,10:00
-Stephanie Leonard,Valencia,Mercadona,Leche,19.05,Otoño,11:00
-Shawn Vang,Zaragoza,Alcampo,Yogur,21.85,Invierno,14:00
-Joshua Harrington,Palma,Bon Preu,Arroz,28.55,Primavera,14:00
-Jenny Chavez,Madrid,Carrefour,Huevos,15.2,Verano,21:00
-Michael Long,Bilbao,Dia,Arroz,19.39,Invierno,09:00
-Edward Berry,Málaga,Bon Preu,Pan,14.21,Verano,19:00
-John Moreno,Barcelona,Aldi,Pasta,42.14,Invierno,21:00
-Jonathan Roberts,Barcelona,Carrefour,Arroz,25.23,Primavera,14:00
-Raymond Hardy,Murcia,Bon Preu,Pasta,16.36,Otoño,15:00
-Robert Taylor,Murcia,Lidl,Atún,30.45,Invierno,13:00
-Debbie Garcia,Las Palmas,Carrefour,Tomates,31.72,Invierno,09:00
-Sabrina Douglas,Valencia,El Corte Inglés,Yogur,14.64,Primavera,09:00
-Jessica Dunn,Las Palmas,Mercadona,Tomates,35.8,Verano,09:00
-David Ramirez,Barcelona,Aldi,Arroz,38.93,Invierno,17:00
-Dennis Williams,Valencia,Eroski,Manzanas,29.97,Otoño,20:00
-Laura Davis,Málaga,Consum,Pasta,9.75,Primavera,13:00
-William Kim,Bilbao,El Corte Inglés,Manzanas,40.89,Invierno,15:00
-Anna Mcgee,Valencia,Carrefour,Huevos,19.58,Invierno,19:00
-Mrs. Olivia Watts,Sevilla,Lidl,Tomates,6.3,Invierno,12:00
-James Martinez,Palma,Aldi,Pan,5.05,Otoño,10:00
-Barry Townsend,Palma,El Corte Inglés,Pan,33.05,Primavera,14:00
-Matthew Rodriguez,Murcia,El Corte Inglés,Huevos,6.3,Primavera,17:00
-Christopher Peterson,Murcia,Aldi,Pasta,26.7,Invierno,15:00
-Darrell Brown,Murcia,Aldi,Tomates,14.14,Primavera,15:00
-David Jones,Valencia,Aldi,Manzanas,21.89,Otoño,20:00
-Jacob Garrison,Madrid,Dia,Arroz,1.85,Primavera,15:00
-Scott Arnold,Bilbao,Dia,Yogur,45.66,Primavera,08:00
-Raymond Castillo,Valencia,Bon Preu,Huevos,36.34,Primavera,10:00
-Jessica Johnston,Madrid,Eroski,Pollo,40.88,Otoño,18:00
-Holly Johnson,Bilbao,Lidl,Leche,1.94,Invierno,10:00
-Jaclyn Wyatt,Zaragoza,Mercadona,Arroz,26.0,Primavera,13:00
-Isaiah Burns,Zaragoza,El Corte Inglés,Pan,30.95,Otoño,13:00
-Jamie Foley,Valencia,Alcampo,Huevos,26.13,Verano,10:00
-Tiffany Peterson,Barcelona,Bon Preu,Tomates,35.05,Verano,19:00
-Michael Hayden,Zaragoza,Dia,Pasta,23.37,Primavera,15:00
-Megan Stevenson,Málaga,Bon Preu,Tomates,8.26,Invierno,13:00
-Jessica Long,Zaragoza,Bon Preu,Manzanas,42.86,Invierno,09:00
-Charles Butler,Bilbao,Eroski,Atún,31.28,Invierno,09:00
-Danielle Mitchell,Málaga,El Corte Inglés,Leche,21.29,Otoño,19:00
-Lisa Madden,Palma,Consum,Huevos,5.36,Primavera,15:00
-Tyrone Gonzalez,Bilbao,Carrefour,Huevos,33.45,Otoño,15:00
-Carolyn Hess,Bilbao,Alcampo,Atún,20.37,Primavera,08:00
-Steven Welch,Bilbao,Lidl,Pollo,2.98,Invierno,08:00
-Jacob Ryan,Madrid,Dia,Leche,33.9,Verano,08:00
-Reginald Williams,Málaga,Alcampo,Atún,12.19,Primavera,16:00
-Tyrone Gonzalez,Sevilla,El Corte Inglés,Huevos,2.71,Primavera,16:00
-Lynn Nelson,Sevilla,Dia,Pan,10.49,Otoño,13:00
-Justin Watkins,Palma,Carrefour,Manzanas,3.61,Primavera,13:00
-Jonathan Diaz,Barcelona,Alcampo,Arroz,46.61,Primavera,19:00
-Charles Butler,Murcia,Carrefour,Tomates,9.7,Verano,18:00
-Christopher Li,Palma,Mercadona,Leche,9.14,Invierno,17:00
-Grace Gay,Bilbao,Bon Preu,Yogur,5.88,Invierno,11:00
-Tabitha Sullivan,Palma,Alcampo,Pollo,34.35,Primavera,19:00
-Kathryn Gonzalez,Madrid,Eroski,Yogur,23.68,Verano,16:00
-Jesse West,Murcia,Lidl,Pan,27.09,Otoño,20:00
-Anna Yates,Bilbao,El Corte Inglés,Pan,36.92,Invierno,14:00
-Robert Cooper,Murcia,El Corte Inglés,Tomates,43.42,Primavera,12:00
-Justin Garcia,Madrid,Carrefour,Pollo,33.12,Primavera,15:00
-George Kennedy,Barcelona,Aldi,Pollo,34.83,Otoño,16:00
-Carolyn Stein,Barcelona,Eroski,Huevos,47.0,Primavera,17:00
-Charles Rich,Sevilla,Consum,Yogur,18.99,Verano,21:00
-Patricia Jones,Madrid,El Corte Inglés,Leche,3.7,Verano,20:00
-Tiffany Serrano,Murcia,Eroski,Pollo,38.04,Primavera,18:00
-Jesus Ramirez,Las Palmas,Mercadona,Yogur,17.54,Primavera,09:00
-Maria Smith,Valencia,El Corte Inglés,Atún,44.73,Otoño,18:00
-Gregory Lewis,Murcia,Carrefour,Tomates,30.47,Verano,18:00
-Keith Wang,Palma,Lidl,Leche,26.06,Primavera,14:00
-Tonya Shannon,Murcia,Carrefour,Manzanas,12.45,Verano,16:00
-William Smith,Zaragoza,Alcampo,Huevos,12.75,Verano,15:00
-Gregory Smith,Sevilla,Bon Preu,Atún,31.55,Primavera,12:00
-Steven Mcmillan,Madrid,Consum,Tomates,32.54,Invierno,11:00
-Kelly Lamb,Bilbao,Consum,Yogur,22.01,Verano,17:00
-Kari Gonzalez,Las Palmas,Eroski,Pan,2.33,Verano,12:00
-Elizabeth Osborne,Las Palmas,Eroski,Leche,32.35,Primavera,12:00
-William Kelley,Bilbao,Consum,Arroz,16.7,Primavera,13:00
-James Anderson,Murcia,Consum,Huevos,12.39,Verano,14:00
-Jacob Franklin,Valencia,Carrefour,Huevos,42.76,Primavera,16:00
-Becky Carpenter,Barcelona,Lidl,Atún,8.49,Primavera,09:00
-Gary Nichols,Sevilla,Lidl,Leche,43.47,Otoño,08:00
-William Smith,Barcelona,Mercadona,Pan,43.77,Invierno,19:00
-Dustin Jackson,Palma,Carrefour,Atún,2.62,Otoño,21:00
-Samantha Lee,Málaga,Carrefour,Yogur,44.16,Otoño,21:00
-Erica Gutierrez,Palma,Mercadona,Arroz,49.57,Primavera,08:00
-Matthew Farley,Barcelona,Bon Preu,Pollo,20.69,Otoño,17:00
-Frederick Nash,Bilbao,Bon Preu,Leche,48.67,Otoño,21:00
-Victoria Dickerson,Murcia,El Corte Inglés,Huevos,21.69,Primavera,09:00
-Chase Garcia,Málaga,Alcampo,Yogur,29.39,Verano,08:00
-Adam Price,Palma,Mercadona,Arroz,13.24,Primavera,13:00
-Pamela Lane,Zaragoza,Eroski,Tomates,8.62,Primavera,19:00
-Alyssa Owens,Barcelona,Aldi,Manzanas,12.08,Otoño,11:00
-Crystal Delgado,Barcelona,Bon Preu,Tomates,7.06,Verano,09:00
-Lisa Obrien,Murcia,Carrefour,Arroz,31.07,Verano,10:00
-Keith Johnson,Valencia,Carrefour,Leche,17.14,Verano,11:00
-John Terrell,Madrid,Eroski,Atún,17.75,Invierno,16:00
-Albert Vargas,Zaragoza,Alcampo,Arroz,21.1,Otoño,15:00
-Marvin Morales,Valencia,Bon Preu,Pasta,2.07,Invierno,18:00
-Scott Arnold,Bilbao,Carrefour,Arroz,2.23,Primavera,13:00
-April Patterson,Sevilla,Bon Preu,Yogur,3.3,Primavera,10:00
-Susan Klein,Palma,Carrefour,Atún,17.32,Invierno,10:00
-Lori Butler,Barcelona,Dia,Pan,18.7,Invierno,13:00
-Jasmin Jones,Valencia,Aldi,Leche,17.2,Primavera,16:00
-Kari Gonzalez,Madrid,Carrefour,Arroz,45.93,Primavera,13:00
-Randy Harris,Málaga,Lidl,Pasta,21.6,Primavera,17:00
-Karen Hunter,Las Palmas,Dia,Arroz,3.36,Otoño,14:00
-Carolyn Hess,Madrid,Aldi,Arroz,2.44,Invierno,12:00
-Pamela Mendoza,Barcelona,Eroski,Pollo,36.94,Verano,14:00
-Justin Wright,Barcelona,Bon Preu,Manzanas,8.41,Verano,16:00
-Leah Haney,Las Palmas,Consum,Pasta,35.87,Otoño,21:00
-Samuel Martinez,Málaga,El Corte Inglés,Leche,27.85,Verano,20:00
-Mathew Mcgrath,Barcelona,Carrefour,Arroz,7.63,Invierno,21:00
-Sara Cooper,Murcia,Aldi,Yogur,27.12,Verano,17:00
-Stacy Sims,Murcia,Bon Preu,Tomates,22.13,Otoño,15:00
-Pamela Mendoza,Bilbao,Consum,Tomates,29.02,Otoño,15:00
-William Smith,Zaragoza,Mercadona,Tomates,23.4,Verano,15:00
-Samantha Butler,Murcia,El Corte Inglés,Huevos,36.07,Invierno,18:00
-Renee Parks,Barcelona,Aldi,Pasta,27.4,Invierno,17:00
-Curtis Giles,Barcelona,Aldi,Pan,39.64,Primavera,19:00
-Eric Arnold,Sevilla,Dia,Yogur,49.89,Otoño,11:00
-Tanya Mccall,Murcia,Aldi,Atún,33.94,Otoño,15:00
-Nicholas Cummings,Valencia,Consum,Yogur,28.98,Invierno,10:00
-Rachel Tyler,Málaga,Eroski,Arroz,7.53,Invierno,10:00
-Reginald Webb,Sevilla,Consum,Pan,24.42,Invierno,09:00
-Katie Carroll,Murcia,Alcampo,Yogur,7.76,Verano,21:00
-Miguel Johnson,Murcia,El Corte Inglés,Pan,12.0,Primavera,20:00
-Mr. Douglas Flowers,Barcelona,Dia,Yogur,39.23,Otoño,13:00
-Wendy Lewis,Murcia,Alcampo,Tomates,31.45,Verano,11:00
-Debbie Wells,Murcia,Consum,Pasta,38.39,Primavera,08:00
-Michael Garrett,Zaragoza,Eroski,Pollo,48.07,Verano,11:00
-Gary Spears,Zaragoza,Carrefour,Tomates,9.36,Primavera,11:00
-Jenny Chavez,Sevilla,Bon Preu,Pasta,27.38,Otoño,13:00
-Susan Anderson,Zaragoza,Alcampo,Tomates,28.41,Invierno,20:00
-Melissa Love,Madrid,Dia,Pollo,25.42,Verano,16:00
-Roger Vance,Murcia,Bon Preu,Tomates,36.06,Otoño,20:00
-Victoria Griffin,Las Palmas,Bon Preu,Tomates,20.97,Verano,19:00
-Joyce Fisher,Zaragoza,Lidl,Tomates,13.45,Verano,13:00
-Michelle Barry,Zaragoza,Carrefour,Pasta,7.57,Primavera,15:00
-Eric Jones,Valencia,El Corte Inglés,Leche,42.32,Invierno,14:00
-Raymond Castillo,Bilbao,Aldi,Pollo,49.23,Primavera,18:00
-Stephen Johnson,Valencia,Bon Preu,Pan,4.34,Primavera,10:00
-Lawrence Gonzalez,Palma,Alcampo,Atún,7.17,Otoño,14:00
-Kimberly Soto,Barcelona,Lidl,Arroz,20.03,Primavera,12:00
-Pamela Mendoza,Palma,Eroski,Pollo,25.02,Primavera,17:00
-Tiffany May,Barcelona,Alcampo,Pollo,40.54,Primavera,21:00
-Miguel Jones,Bilbao,Dia,Pollo,9.93,Otoño,18:00
-Kayla Barr,Madrid,El Corte Inglés,Manzanas,13.04,Primavera,16:00
-Kirsten Thompson,Zaragoza,El Corte Inglés,Manzanas,14.78,Otoño,21:00
-Theodore Pearson,Valencia,Dia,Tomates,49.95,Verano,08:00
-Stacy Diaz,Valencia,Lidl,Pan,18.1,Primavera,14:00
-Michael Frye,Madrid,Lidl,Yogur,2.34,Otoño,14:00
-Roger Vance,Palma,El Corte Inglés,Tomates,20.87,Otoño,21:00
-Stanley Murphy,Valencia,Dia,Arroz,41.38,Primavera,11:00
-Natasha Snyder,Valencia,Mercadona,Atún,6.26,Primavera,11:00
-Deborah Rangel,Valencia,El Corte Inglés,Pan,33.06,Invierno,21:00
-April Ferguson,Bilbao,Alcampo,Huevos,4.65,Invierno,12:00
-Sierra Coffey,Zaragoza,Lidl,Huevos,37.53,Verano,13:00
-Lisa Le,Palma,Carrefour,Leche,25.44,Invierno,18:00
-Patricia Hoover DDS,Bilbao,Consum,Arroz,4.04,Verano,10:00
-Dominic Gray,Zaragoza,Aldi,Arroz,47.29,Otoño,17:00
-Kevin Stewart,Bilbao,Mercadona,Leche,32.2,Primavera,11:00
-Gwendolyn Abbott,Sevilla,Carrefour,Atún,35.37,Otoño,15:00
-Matthew Greene,Barcelona,Consum,Leche,14.04,Otoño,08:00
-Renee Rogers,Sevilla,Consum,Huevos,39.16,Verano,13:00
-Jacob Ryan,Valencia,Carrefour,Yogur,17.65,Verano,17:00
-Monica Wells,Sevilla,Alcampo,Arroz,14.71,Invierno,13:00
-Kevin Alvarez,Zaragoza,Bon Preu,Atún,1.58,Otoño,20:00
-Lisa Madden,Murcia,Dia,Yogur,25.17,Verano,18:00
-Roberta Graham,Zaragoza,Carrefour,Leche,22.07,Primavera,08:00
-Tiffany Prince,Sevilla,El Corte Inglés,Pasta,1.93,Primavera,15:00
-Jaclyn Wyatt,Las Palmas,Mercadona,Manzanas,24.62,Primavera,12:00
-Ryan Wiggins,Madrid,Consum,Atún,7.37,Otoño,19:00
-Michelle Smith,Murcia,Consum,Pasta,30.28,Otoño,09:00
-Jonathan Diaz,Zaragoza,El Corte Inglés,Pollo,5.98,Primavera,12:00
-Brenda Rich,Zaragoza,Eroski,Pollo,24.87,Invierno,20:00
-Michael Mclaughlin,Málaga,Bon Preu,Pasta,37.71,Invierno,20:00
-Daniel Fowler,Murcia,Consum,Pasta,18.89,Invierno,12:00
-Andrew Moore,Valencia,Dia,Pan,30.63,Verano,20:00
-Cynthia Dillon,Málaga,Alcampo,Arroz,11.14,Invierno,15:00
-Robert Hughes,Sevilla,Carrefour,Yogur,39.87,Primavera,21:00
-Jeffery Baker,Sevilla,Consum,Huevos,16.22,Invierno,21:00
-Juan Morrow,Las Palmas,Carrefour,Pan,21.17,Otoño,17:00
-Brett Smith,Málaga,Aldi,Pollo,19.99,Verano,17:00
-Kyle Downs,Sevilla,Bon Preu,Pan,3.65,Primavera,17:00
-Matthew Frazier,Zaragoza,Lidl,Manzanas,23.86,Otoño,17:00
-Eileen Hall,Murcia,Dia,Pan,5.67,Invierno,18:00
-Anna Obrien,Murcia,Lidl,Pollo,34.29,Verano,12:00
-Timothy Fuentes,Bilbao,Eroski,Tomates,24.52,Verano,13:00
-Drew Myers,Valencia,Consum,Pan,37.06,Primavera,11:00
-Adrian Kelly,Murcia,Eroski,Pan,39.91,Primavera,20:00
-Brendan Salazar,Palma,Mercadona,Pan,45.17,Primavera,20:00
-John Nelson,Sevilla,Dia,Pollo,9.42,Otoño,18:00
-Jennifer Reilly,Valencia,Dia,Tomates,26.66,Primavera,08:00
-Alyssa Owens,Barcelona,Eroski,Pasta,43.72,Verano,18:00
-Jackie Knight,Murcia,Aldi,Pan,47.95,Verano,21:00
-Todd Thomas,Murcia,Eroski,Huevos,16.09,Invierno,08:00
-David Smith,Murcia,Mercadona,Arroz,29.57,Otoño,10:00
-Jessica Thompson,Sevilla,Bon Preu,Pollo,10.68,Primavera,13:00
-Gina Gordon,Madrid,Dia,Manzanas,30.51,Primavera,18:00
-Jeffrey Roberson,Sevilla,Dia,Atún,22.89,Otoño,14:00
-Michael Reynolds,Palma,Aldi,Tomates,49.28,Otoño,14:00
-David Perez,Bilbao,Eroski,Pasta,26.66,Verano,08:00
-Robert Gutierrez,Barcelona,Eroski,Pan,13.29,Verano,13:00
-Tim Boone,Sevilla,Bon Preu,Tomates,15.08,Primavera,10:00
-Derrick Palmer,Murcia,El Corte Inglés,Atún,8.5,Verano,18:00
-Stephanie Barnett,Zaragoza,Mercadona,Manzanas,36.24,Primavera,10:00
-William Duffy,Madrid,Consum,Tomates,39.9,Invierno,20:00
-Albert Allen,Las Palmas,Lidl,Huevos,26.98,Verano,21:00
-Craig Diaz,Las Palmas,Dia,Pasta,7.07,Otoño,21:00
-Barry Townsend,Las Palmas,Eroski,Huevos,12.46,Verano,15:00
-Angela Carter,Zaragoza,Consum,Yogur,3.58,Primavera,19:00
-Bryan Bernard,Madrid,El Corte Inglés,Pollo,10.47,Verano,19:00
-Kylie Reed,Sevilla,Lidl,Pan,21.05,Otoño,09:00
-Brian Wiggins,Las Palmas,Carrefour,Pollo,30.62,Otoño,12:00
-Karen Cooper,Madrid,Aldi,Yogur,24.72,Otoño,10:00
-Jacob Lee,Palma,Aldi,Pasta,1.44,Otoño,13:00
-Joanne Williams,Málaga,Consum,Atún,38.94,Verano,09:00
-Tiffany Hart,Málaga,Consum,Manzanas,8.36,Verano,11:00
-Stacy Beard,Bilbao,Dia,Pan,18.01,Verano,11:00
-Emily Bridges,Valencia,Alcampo,Manzanas,18.29,Primavera,20:00
-Jonathan Roberts,Las Palmas,Aldi,Pan,33.83,Primavera,10:00
-Christopher Bates DDS,Valencia,Eroski,Leche,49.16,Primavera,14:00
-Mia Phillips,Madrid,Alcampo,Pollo,8.66,Invierno,14:00
-John Terrell,Valencia,Carrefour,Yogur,0.79,Invierno,15:00
-John Nguyen,Valencia,El Corte Inglés,Manzanas,15.86,Invierno,09:00
-Katherine Baker,Palma,Aldi,Yogur,12.76,Verano,09:00
-Connor Martin MD,Barcelona,Dia,Pollo,18.59,Otoño,09:00
-Jacob Roach,Las Palmas,Aldi,Pasta,49.17,Primavera,17:00
-Kelly Mendez,Madrid,Lidl,Pan,16.16,Verano,16:00
-Michelle Beck,Valencia,Eroski,Leche,35.48,Otoño,09:00
-Michael Garrett,Valencia,Consum,Arroz,2.28,Invierno,11:00
-Brian Stephens,Valencia,Carrefour,Manzanas,10.89,Invierno,13:00
-Ryan Gonzalez,Madrid,Alcampo,Pasta,21.39,Primavera,19:00
-John Hill,Barcelona,Aldi,Manzanas,9.65,Primavera,18:00
-Bruce Castillo DVM,Las Palmas,Lidl,Atún,23.26,Verano,17:00
-Renee Parks,Zaragoza,Eroski,Huevos,31.84,Invierno,09:00
-Shelley Williamson,Sevilla,Lidl,Tomates,19.19,Invierno,16:00
-Kara Keller,Valencia,Mercadona,Huevos,49.3,Verano,17:00
-Tyler Rosales DDS,Murcia,Eroski,Manzanas,34.24,Otoño,16:00
-Erik Harris,Bilbao,Dia,Huevos,28.15,Primavera,09:00
-Stanley Park,Madrid,Carrefour,Atún,48.07,Primavera,16:00
-Mr. Christopher Duffy,Sevilla,Lidl,Yogur,43.29,Invierno,17:00
-Angel Doyle,Bilbao,Aldi,Pasta,5.28,Verano,16:00
-Joshua Wallace,Sevilla,Mercadona,Pan,40.07,Verano,13:00
-Keith Reid,Málaga,Mercadona,Arroz,14.28,Verano,15:00
-Stephanie Chen,Málaga,Carrefour,Pan,26.02,Otoño,11:00
-Jamie Foley,Valencia,Carrefour,Manzanas,49.39,Primavera,16:00
-Jasmin Jones,Madrid,Eroski,Pan,10.21,Verano,10:00
-Amanda Eaton,Sevilla,Eroski,Pasta,37.13,Verano,13:00
-Karen Mcpherson,Murcia,Alcampo,Manzanas,1.03,Verano,21:00
-Brett Reese,Murcia,Consum,Manzanas,49.58,Verano,09:00
-Teresa Rollins,Sevilla,Lidl,Arroz,35.49,Verano,09:00
-Brett Smith,Sevilla,Alcampo,Pasta,23.94,Invierno,18:00
-Mathew Mcgrath,Barcelona,Mercadona,Leche,21.56,Invierno,12:00
-Holly Taylor,Murcia,Lidl,Atún,12.95,Verano,15:00
-John Yates,Sevilla,Mercadona,Arroz,6.94,Otoño,15:00
-Emily Bridges,Bilbao,Aldi,Manzanas,10.82,Otoño,13:00
-Matthew Thompson,Madrid,Alcampo,Yogur,15.12,Verano,14:00
-Jonathan Ward,Barcelona,Eroski,Pasta,43.61,Invierno,14:00
-Brian Kelly,Barcelona,Dia,Manzanas,36.1,Otoño,10:00
-Theresa Osborne DDS,Las Palmas,Carrefour,Manzanas,28.9,Invierno,11:00
-Alexander Cox,Madrid,Aldi,Atún,33.78,Verano,21:00
-Alex Cooper,Palma,Mercadona,Pasta,33.0,Primavera,09:00
-Jamie Henry,Murcia,Bon Preu,Huevos,40.35,Otoño,21:00
-Laura Henderson,Murcia,Eroski,Leche,35.14,Invierno,09:00
-Kristina Jimenez,Málaga,Lidl,Manzanas,25.47,Primavera,13:00
-Gary Spears,Bilbao,Alcampo,Leche,42.01,Invierno,11:00
-John Martinez,Málaga,Consum,Pasta,18.51,Invierno,21:00
-Scott Kane,Palma,Aldi,Huevos,31.06,Verano,16:00
-Jessica Stanton,Murcia,Dia,Pollo,41.32,Verano,19:00
-Jennifer Hill,Málaga,Aldi,Huevos,33.09,Invierno,19:00
-Anna Carpenter,Zaragoza,Carrefour,Yogur,38.79,Invierno,13:00
-William Howe,Málaga,Carrefour,Atún,14.78,Invierno,19:00
-Olivia Gomez,Barcelona,Lidl,Yogur,4.74,Verano,09:00
-Renee Rogers,Zaragoza,Alcampo,Atún,27.5,Verano,19:00
-Tina Montgomery,Málaga,Aldi,Atún,32.88,Otoño,09:00
-Tina Montgomery,Madrid,Aldi,Pasta,1.54,Otoño,11:00
-Donald Miles,Sevilla,Mercadona,Pollo,13.2,Invierno,19:00
-Mr. Derek Allison,Bilbao,Lidl,Tomates,4.45,Primavera,19:00
-Amy Cox,Barcelona,Carrefour,Huevos,3.37,Otoño,13:00
-James Rogers,Valencia,Alcampo,Arroz,37.23,Invierno,16:00
-Joseph Williams,Zaragoza,Carrefour,Pan,33.16,Otoño,17:00
-Karen Cooper,Zaragoza,Mercadona,Pollo,46.91,Invierno,16:00
-Randy Harris,Sevilla,Bon Preu,Manzanas,30.87,Primavera,16:00
-Regina Walker,Palma,El Corte Inglés,Leche,4.79,Verano,12:00
-Tiffany Serrano,Bilbao,Mercadona,Yogur,48.55,Primavera,19:00
-Patrick Callahan,Valencia,Alcampo,Yogur,7.94,Otoño,19:00
-Emily Clayton,Las Palmas,Lidl,Pasta,27.42,Otoño,13:00
-Christopher Todd,Palma,Dia,Huevos,1.57,Primavera,20:00
-Aaron Thomas,Sevilla,Carrefour,Arroz,46.42,Otoño,10:00
-Ashley Walker,Las Palmas,Bon Preu,Leche,41.22,Primavera,20:00
-Stacy Diaz,Sevilla,El Corte Inglés,Tomates,44.79,Primavera,17:00
-Kelsey Garza,Murcia,Consum,Leche,44.47,Otoño,16:00
-Brian Edwards,Zaragoza,Lidl,Pan,31.83,Invierno,15:00
-Michael Allen,Zaragoza,Bon Preu,Pasta,6.51,Otoño,14:00
-Lori Butler,Málaga,Bon Preu,Pan,17.76,Verano,13:00
-Bradley Johnson,Madrid,Consum,Pasta,20.48,Invierno,21:00
-Kenneth Howell,Zaragoza,Aldi,Atún,9.25,Primavera,13:00
-Justin Patterson,Bilbao,Alcampo,Manzanas,49.22,Otoño,13:00
+Nicholas Martinez,Barcelona,Consum,Pollo,29.99,Otoño,12:00
+Jonathan Rivera MD,Barcelona,Dia,Tomates,0.85,Primavera,12:00
+Joel Howard,Zaragoza,Dia,Atún,26.42,Verano,08:00
+Michael Stewart,Las Palmas,Eroski,Pan,39.07,Primavera,11:00
+Brian Anderson,Bilbao,Consum,Tomates,16.22,Otoño,18:00
+Michael Williams,Valencia,Aldi,Yogur,40.02,Otoño,19:00
+Sharon Graham,Málaga,Bon Preu,Huevos,10.7,Otoño,09:00
+Todd Burke,Sevilla,Bon Preu,Pasta,37.82,Invierno,15:00
+Caitlin Garcia,Madrid,Lidl,Pasta,40.05,Verano,16:00
+John Martinez,Las Palmas,Lidl,Huevos,35.13,Verano,12:00
+Brenda Rodriguez,Las Palmas,Eroski,Arroz,16.89,Otoño,15:00
+Todd Burke,Barcelona,Aldi,Manzanas,23.57,Verano,14:00
+Mr. William Miller,Valencia,El Corte Inglés,Leche,28.31,Invierno,14:00
+Stacy Garcia,Valencia,Consum,Pan,4.96,Otoño,15:00
+James Baker,Madrid,Lidl,Huevos,43.93,Invierno,16:00
+David Mcgee,Murcia,Carrefour,Tomates,29.82,Verano,11:00
+Robert Carpenter,Bilbao,Mercadona,Huevos,5.05,Invierno,17:00
+Ronnie Brown,Palma,El Corte Inglés,Leche,0.93,Verano,11:00
+Michele Martinez,Bilbao,Dia,Pan,3.85,Invierno,09:00
+Mark Hughes,Valencia,Alcampo,Leche,47.18,Verano,16:00
+Ebony Smith,Valencia,Bon Preu,Pollo,19.37,Invierno,20:00
+Lisa Ellis,Sevilla,El Corte Inglés,Pasta,23.63,Otoño,20:00
+Lisa Ellis,Murcia,Consum,Leche,36.14,Primavera,16:00
+Michelle Kline,Bilbao,El Corte Inglés,Pollo,7.33,Invierno,19:00
+Jennifer Andrews,Zaragoza,Bon Preu,Manzanas,30.6,Invierno,09:00
+Dennis Gomez,Málaga,Mercadona,Pan,13.37,Verano,21:00
+Jessica Richardson,Las Palmas,Carrefour,Yogur,6.73,Invierno,17:00
+Matthew Weaver,Bilbao,Lidl,Huevos,11.64,Otoño,18:00
+Richard Newman,Murcia,Dia,Tomates,19.14,Otoño,20:00
+Mr. Christopher Lee Jr.,Murcia,Eroski,Huevos,0.9,Otoño,14:00
+Ebony Smith,Zaragoza,Dia,Leche,37.92,Primavera,20:00
+Kyle Ray,Palma,Consum,Tomates,46.21,Invierno,14:00
+Rebecca Moore,Palma,Dia,Huevos,34.2,Otoño,16:00
+Kim Elliott,Zaragoza,Consum,Tomates,42.8,Invierno,19:00
+Timothy Smith,Valencia,El Corte Inglés,Pan,29.19,Invierno,08:00
+Brenda Garner,Madrid,Bon Preu,Pasta,0.68,Otoño,15:00
+Dr. James Harris,Murcia,Eroski,Tomates,45.22,Verano,18:00
+Terry Allen,Bilbao,Dia,Huevos,0.54,Primavera,14:00
+Vincent Bradley,Valencia,El Corte Inglés,Tomates,5.32,Verano,09:00
+Kayla Travis,Zaragoza,Eroski,Yogur,44.39,Primavera,10:00
+Jenny Brock,Las Palmas,El Corte Inglés,Yogur,31.66,Invierno,20:00
+Joshua Carter,Barcelona,El Corte Inglés,Manzanas,3.12,Primavera,21:00
+David Patterson,Las Palmas,Consum,Pan,0.84,Primavera,10:00
+Wendy Shaw,Madrid,Mercadona,Pan,0.56,Invierno,18:00
+Victor Campbell,Madrid,Bon Preu,Yogur,35.23,Primavera,12:00
+Jason Johnson,Bilbao,Dia,Atún,11.76,Invierno,09:00
+Luis Allen,Sevilla,Aldi,Pasta,4.93,Primavera,12:00
+Chase Martinez,Málaga,El Corte Inglés,Pollo,36.76,Invierno,10:00
+Amy Levine,Bilbao,Dia,Leche,29.3,Verano,20:00
+Cynthia Kirk,Bilbao,Eroski,Tomates,41.88,Primavera,12:00
+Edward Meyers,Valencia,Consum,Arroz,29.79,Verano,13:00
+Joshua Carter,Las Palmas,Aldi,Manzanas,12.19,Otoño,15:00
+Cheryl Campbell,Sevilla,Aldi,Arroz,49.74,Invierno,10:00
+Melissa Wright,Valencia,El Corte Inglés,Tomates,39.06,Primavera,16:00
+Erika Morales,Barcelona,Eroski,Tomates,31.36,Primavera,12:00
+Anna Delgado,Palma,Carrefour,Yogur,29.27,Verano,21:00
+Jill Turner,Bilbao,Alcampo,Pan,28.25,Primavera,11:00
+Jeremy Barton Jr.,Palma,Mercadona,Leche,33.66,Verano,21:00
+Jill Turner,Palma,Carrefour,Arroz,46.12,Invierno,12:00
+Brandon Salinas,Sevilla,Lidl,Atún,46.58,Primavera,10:00
+Michael Reyes,Palma,Aldi,Leche,24.52,Otoño,10:00
+Harold Lopez,Barcelona,Bon Preu,Pan,30.54,Otoño,09:00
+Angel Le,Madrid,Mercadona,Atún,41.97,Verano,14:00
+Angela Woods,Madrid,Lidl,Pasta,18.08,Primavera,20:00
+Natasha Forbes,Valencia,Eroski,Manzanas,3.18,Otoño,11:00
+Todd Collins,Murcia,El Corte Inglés,Pan,48.63,Otoño,17:00
+James Powell,Murcia,Dia,Atún,14.14,Invierno,11:00
+Ian Barnes,Málaga,Mercadona,Pan,30.91,Primavera,20:00
+Brittany Jones,Málaga,El Corte Inglés,Manzanas,41.34,Invierno,18:00
+Jessica Reyes,Zaragoza,Aldi,Huevos,34.09,Otoño,09:00
+Michael Williams,Valencia,El Corte Inglés,Yogur,36.07,Primavera,16:00
+Caroline Donovan,Murcia,Alcampo,Pan,48.97,Verano,15:00
+Richard Smith,Bilbao,Consum,Manzanas,19.56,Otoño,14:00
+Tammy Herrera,Bilbao,El Corte Inglés,Atún,12.15,Invierno,19:00
+Lisa Weaver,Murcia,Dia,Leche,16.34,Otoño,08:00
+Deborah Nelson,Valencia,Alcampo,Pollo,13.32,Invierno,18:00
+Jason Johnson,Palma,Lidl,Manzanas,10.27,Otoño,19:00
+Susan Hays,Málaga,Lidl,Huevos,13.31,Otoño,18:00
+Kyle Downs,Madrid,Eroski,Huevos,44.28,Verano,21:00
+Joseph Ross,Barcelona,Lidl,Huevos,38.59,Primavera,21:00
+Darrell Mccoy,Barcelona,Consum,Leche,23.23,Otoño,18:00
+Ian Barnes,Málaga,Dia,Huevos,2.6,Invierno,20:00
+Amy Smith,Murcia,Mercadona,Huevos,44.32,Primavera,11:00
+Thomas Evans,Sevilla,Aldi,Huevos,14.08,Verano,12:00
+Kelsey Guerrero,Barcelona,Carrefour,Huevos,10.08,Otoño,08:00
+Brandi Johnston,Barcelona,Lidl,Manzanas,33.89,Verano,09:00
+Dustin Gaines,Zaragoza,Lidl,Atún,15.76,Invierno,12:00
+Michelle Ramirez,Málaga,Aldi,Huevos,47.28,Primavera,17:00
+Gabriel Hess,Sevilla,Dia,Huevos,4.82,Verano,17:00
+Nichole Zamora,Las Palmas,El Corte Inglés,Pasta,28.72,Verano,16:00
+Allen Henderson,Valencia,Bon Preu,Leche,27.86,Primavera,15:00
+Donna Moon,Las Palmas,Dia,Pollo,49.03,Verano,09:00
+Brittany Anthony,Valencia,Mercadona,Pasta,43.38,Otoño,09:00
+Jessica Foster,Sevilla,Mercadona,Manzanas,20.61,Invierno,16:00
+Jenny Brown,Murcia,Carrefour,Pollo,17.54,Primavera,21:00
+Melanie Conley,Málaga,Bon Preu,Manzanas,12.21,Invierno,11:00
+Daniel Floyd,Palma,Bon Preu,Leche,11.58,Otoño,21:00
+Anthony Suarez,Zaragoza,Consum,Arroz,22.48,Otoño,19:00
+Michelle Proctor,Madrid,Alcampo,Yogur,15.88,Primavera,20:00
+Thomas Cunningham,Zaragoza,Lidl,Atún,49.31,Verano,13:00
+Jodi Boyd,Valencia,Bon Preu,Leche,46.7,Otoño,15:00
+Mr. Jackson Cook DVM,Sevilla,El Corte Inglés,Atún,27.6,Verano,11:00
+Carolyn Leach,Las Palmas,Alcampo,Pollo,32.84,Otoño,19:00
+Caleb Robinson,Barcelona,Dia,Manzanas,31.63,Verano,14:00
+Roger Davis,Sevilla,Eroski,Atún,49.9,Otoño,16:00
+Rebecca Wallace,Las Palmas,Eroski,Leche,45.05,Primavera,10:00
+Kelly Mccoy,Zaragoza,Mercadona,Manzanas,18.96,Primavera,13:00
+Jeffery Hoover,Madrid,Bon Preu,Tomates,11.21,Invierno,09:00
+Anna Thompson,Bilbao,Dia,Arroz,44.21,Primavera,11:00
+Sylvia Hill,Bilbao,Eroski,Pan,26.4,Primavera,13:00
+Jason Miller,Las Palmas,Alcampo,Atún,16.36,Primavera,21:00
+Brian Scott,Sevilla,Consum,Pan,1.76,Verano,15:00
+Terri Collins,Bilbao,Dia,Pan,30.57,Otoño,13:00
+Alexander Booth,Murcia,Alcampo,Huevos,39.35,Otoño,15:00
+Amy Dunn,Bilbao,Aldi,Manzanas,16.69,Otoño,16:00
+Nicole Harris,Valencia,Eroski,Pasta,6.19,Invierno,15:00
+Peter West,Madrid,Alcampo,Pan,17.7,Primavera,15:00
+Elizabeth Henry,Zaragoza,Aldi,Manzanas,34.41,Primavera,15:00
+James Shepherd,Barcelona,Dia,Arroz,22.0,Primavera,18:00
+Nathan Brown,Barcelona,Carrefour,Leche,30.45,Primavera,11:00
+Alexis Rivera,Barcelona,Dia,Leche,3.85,Invierno,11:00
+Catherine Davis,Valencia,Consum,Yogur,15.19,Otoño,15:00
+Keith Thomas,Palma,Lidl,Manzanas,37.36,Invierno,17:00
+Casey Huerta,Zaragoza,Lidl,Arroz,31.91,Invierno,18:00
+Carmen Baker,Murcia,Mercadona,Yogur,10.57,Verano,12:00
+Albert Phillips,Barcelona,Aldi,Yogur,20.85,Primavera,15:00
+Eric Curtis,Sevilla,Consum,Pan,1.1,Invierno,12:00
+Michael Reyes,Barcelona,Carrefour,Tomates,31.39,Verano,13:00
+Garrett Lee,Sevilla,Mercadona,Leche,35.58,Otoño,09:00
+Paul Wagner Jr.,Madrid,Carrefour,Pasta,24.29,Otoño,14:00
+Hunter Rice,Bilbao,Bon Preu,Arroz,9.88,Primavera,11:00
+William Mitchell,Málaga,El Corte Inglés,Huevos,42.12,Primavera,18:00
+Roberto Thomas,Zaragoza,Bon Preu,Arroz,14.86,Verano,21:00
+Shannon Payne,Barcelona,Aldi,Yogur,48.61,Otoño,09:00
+Kenneth Lopez,Murcia,Dia,Pan,26.15,Otoño,08:00
+Janice Lester,Bilbao,Dia,Huevos,29.7,Otoño,08:00
+Taylor Roberts,Barcelona,Aldi,Arroz,19.87,Otoño,14:00
+Lisa Rivas,Valencia,Eroski,Leche,44.62,Verano,21:00
+Dr. Jesse Medina,Madrid,Eroski,Pan,30.25,Invierno,20:00
+Mrs. Sandra Orr,Bilbao,Bon Preu,Pasta,3.74,Primavera,09:00
+Matthew Weaver,Palma,Alcampo,Pasta,22.03,Verano,10:00
+Anna Newton,Sevilla,Carrefour,Atún,4.16,Invierno,18:00
+Angela Perez,Murcia,Dia,Leche,43.19,Verano,12:00
+Daniel Floyd,Murcia,Alcampo,Leche,25.26,Primavera,19:00
+Sean Wade,Murcia,Alcampo,Huevos,21.0,Invierno,08:00
+Brenda Barrett,Bilbao,Dia,Pollo,14.96,Otoño,11:00
+Gregory Holt,Las Palmas,Eroski,Manzanas,17.77,Verano,16:00
+Joshua Brown,Barcelona,Carrefour,Pasta,5.7,Otoño,20:00
+Amanda Martin PhD,Zaragoza,Dia,Pan,24.93,Verano,12:00
+Jennifer Callahan,Sevilla,Lidl,Pan,37.59,Primavera,19:00
+Denise Simpson,Palma,Carrefour,Yogur,27.68,Verano,14:00
+Alexa Knox,Valencia,Alcampo,Pasta,49.74,Invierno,15:00
+John Duarte,Madrid,Eroski,Pollo,46.88,Otoño,10:00
+Anthony Miller,Barcelona,Lidl,Arroz,8.88,Verano,16:00
+Vanessa Lee,Las Palmas,Aldi,Pan,17.57,Primavera,20:00
+Melissa Wright,Las Palmas,Mercadona,Huevos,10.03,Primavera,10:00
+Derrick Vincent,Zaragoza,Consum,Arroz,19.36,Invierno,11:00
+Andrea Cole,Palma,Alcampo,Manzanas,40.78,Primavera,21:00
+Donna Moon,Las Palmas,Eroski,Atún,1.58,Primavera,20:00
+Bradley Ellis,Palma,Mercadona,Pasta,49.73,Verano,14:00
+Shelby Walter,Málaga,Mercadona,Arroz,2.57,Invierno,11:00
+Tammy Burton,Zaragoza,Eroski,Manzanas,6.85,Invierno,13:00
+Julia Franklin,Barcelona,El Corte Inglés,Yogur,16.71,Verano,09:00
+Robert Harris,Barcelona,Bon Preu,Arroz,24.72,Otoño,20:00
+Mr. Joseph Harding,Palma,Eroski,Leche,45.68,Verano,11:00
+Janice Weaver,Las Palmas,Aldi,Huevos,7.19,Otoño,16:00
+Jeffrey Fox,Madrid,Mercadona,Pasta,48.07,Verano,19:00
+Richard Williamson,Murcia,Mercadona,Arroz,41.19,Verano,13:00
+Jason Smith,Barcelona,Carrefour,Pasta,41.4,Verano,14:00
+Whitney Stone,Valencia,Dia,Tomates,36.1,Otoño,09:00
+Scott Franco,Valencia,Alcampo,Leche,48.14,Verano,20:00
+Dawn Green,Barcelona,Bon Preu,Pollo,19.1,Otoño,18:00
+Nichole Zamora,Murcia,Aldi,Manzanas,19.54,Primavera,12:00
+Pamela Thomas,Barcelona,Eroski,Atún,10.63,Invierno,19:00
+Maria Ramos,Murcia,Dia,Pasta,48.01,Primavera,09:00
+Lucas Lawrence,Madrid,El Corte Inglés,Pan,5.05,Primavera,13:00
+Stephanie Williams MD,Valencia,Aldi,Huevos,29.3,Otoño,19:00
+Amy Dunn,Málaga,Dia,Atún,7.86,Primavera,15:00
+Luis Carr,Málaga,El Corte Inglés,Manzanas,31.89,Otoño,11:00
+Brandon Parsons,Zaragoza,Carrefour,Pasta,17.37,Invierno,16:00
+Jesse Gray,Murcia,El Corte Inglés,Pan,29.25,Otoño,10:00
+Mrs. Brittany Bowman,Madrid,Eroski,Yogur,17.56,Verano,21:00
+Gregory Cochran,Murcia,Lidl,Manzanas,25.84,Primavera,09:00
+Michele Martinez,Zaragoza,Lidl,Yogur,32.89,Verano,19:00
+Devin Marshall,Barcelona,Alcampo,Arroz,2.61,Primavera,11:00
+Deanna Patton,Sevilla,Dia,Tomates,2.94,Verano,09:00
+Diana Frederick,Madrid,Aldi,Pasta,11.3,Invierno,17:00
+Kristin Peterson,Murcia,Dia,Tomates,31.23,Verano,14:00
+Brittany Jones,Palma,Carrefour,Arroz,6.75,Otoño,16:00
+Michael Turner,Palma,Alcampo,Arroz,3.05,Otoño,14:00
+Nicholas Smith,Madrid,Lidl,Atún,30.35,Verano,20:00
+Tanya Oliver,Las Palmas,El Corte Inglés,Pan,40.31,Primavera,15:00
+John Hodges,Zaragoza,Dia,Manzanas,29.86,Invierno,18:00
+Jessica Cooley,Barcelona,Bon Preu,Pollo,46.61,Verano,15:00
+Ronald Nelson,Málaga,Mercadona,Huevos,30.75,Otoño,16:00
+Tammy Walsh,Málaga,Dia,Pan,39.02,Invierno,18:00
+Michael Dennis,Sevilla,Carrefour,Pollo,15.06,Otoño,12:00
+Shannon Payne,Barcelona,Consum,Atún,48.16,Invierno,11:00
+Anthony Allen,Zaragoza,Aldi,Manzanas,42.27,Primavera,09:00
+Courtney Warner,Bilbao,El Corte Inglés,Pasta,19.57,Otoño,10:00
+Jennifer Cisneros,Zaragoza,Bon Preu,Tomates,29.91,Verano,11:00
+Jill Ponce,Madrid,Bon Preu,Pasta,34.72,Otoño,18:00
+Angela Perez,Valencia,Lidl,Yogur,21.45,Otoño,21:00
+Thomas Cochran,Madrid,Eroski,Arroz,46.27,Invierno,14:00
+Lauren Wilkins,Valencia,Mercadona,Manzanas,19.97,Otoño,20:00
+Jessica Lawrence,Zaragoza,Bon Preu,Pan,48.54,Primavera,19:00
+Diana Everett,Sevilla,Dia,Yogur,0.53,Primavera,21:00
+Sandy Gould,Palma,Dia,Pollo,9.4,Primavera,18:00
+Heather Wilson,Málaga,Consum,Yogur,4.48,Otoño,19:00
+Michael Perez,Madrid,Carrefour,Atún,7.99,Verano,20:00
+Gary Ford,Zaragoza,Lidl,Manzanas,32.3,Primavera,09:00
+Mark Bell,Sevilla,Aldi,Pan,45.39,Otoño,16:00
+Christopher Hall,Las Palmas,Dia,Manzanas,38.9,Otoño,20:00
+Christian Johnson,Bilbao,Mercadona,Pollo,45.51,Invierno,08:00
+Michelle Vargas,Barcelona,Alcampo,Atún,36.31,Otoño,16:00
+Todd Deleon,Murcia,Lidl,Huevos,8.05,Verano,20:00
+James Gonzalez,Sevilla,Carrefour,Atún,45.64,Primavera,12:00
+Evan Oconnor,Madrid,Mercadona,Pan,27.77,Primavera,21:00
+Joshua Simmons,Bilbao,Dia,Leche,9.16,Primavera,20:00
+Steven Dillon,Sevilla,El Corte Inglés,Manzanas,34.04,Invierno,18:00
+Amanda Simmons,Sevilla,Mercadona,Arroz,11.04,Primavera,12:00
+Shawn Miller,Murcia,Dia,Arroz,26.45,Verano,16:00
+Albert Phillips,Barcelona,Alcampo,Manzanas,48.62,Primavera,10:00
+Mary Conner,Valencia,Dia,Huevos,17.32,Invierno,19:00
+Curtis Carpenter,Barcelona,Consum,Leche,40.13,Otoño,14:00
+Wesley Wheeler,Málaga,Bon Preu,Arroz,30.46,Verano,17:00
+Darrell Mccoy,Palma,Bon Preu,Manzanas,9.63,Primavera,20:00
+Steven Paul,Valencia,Mercadona,Huevos,24.9,Otoño,15:00
+Matthew Miller,Zaragoza,Carrefour,Arroz,43.74,Invierno,08:00
+Mark Gray,Valencia,Eroski,Manzanas,8.32,Verano,21:00
+Steven Parker,Murcia,Eroski,Huevos,45.4,Verano,20:00
+Michael Williams,Bilbao,Lidl,Tomates,14.18,Otoño,10:00
+Christian Smith,Palma,Bon Preu,Manzanas,41.36,Invierno,10:00
+Maria Ramos,Barcelona,Consum,Manzanas,41.69,Verano,10:00
+Randy Willis,Las Palmas,Carrefour,Pan,36.0,Otoño,12:00
+Kevin George,Zaragoza,Alcampo,Huevos,35.0,Invierno,19:00
+Eric Gonzalez,Palma,Eroski,Pasta,46.04,Invierno,16:00
+Katelyn Welch,Barcelona,Dia,Manzanas,36.29,Primavera,13:00
+Sarah Kennedy,Las Palmas,Aldi,Tomates,6.06,Otoño,15:00
+Garrett Lane,Málaga,Aldi,Pasta,31.1,Otoño,19:00
+Dawn Green,Murcia,Consum,Arroz,12.27,Primavera,21:00
+Jordan Fowler,Málaga,Eroski,Huevos,11.39,Invierno,12:00
+Stephanie Fernandez,Palma,Mercadona,Atún,20.26,Invierno,12:00
+David Allen,Madrid,Eroski,Huevos,48.25,Verano,16:00
+Valerie Curry,Valencia,Aldi,Pan,34.35,Invierno,08:00
+Allen Henderson,Zaragoza,Aldi,Huevos,41.11,Primavera,17:00
+David Allen,Las Palmas,El Corte Inglés,Atún,6.07,Verano,15:00
+Sharon Barry,Madrid,Eroski,Yogur,1.77,Verano,11:00
+Allison Cummings,Sevilla,Mercadona,Leche,45.8,Primavera,21:00
+Kristin Gonzalez,Las Palmas,Consum,Yogur,36.46,Otoño,10:00
+Julia Franklin,Valencia,Mercadona,Huevos,20.57,Otoño,17:00
+Frank Bender,Palma,Consum,Pan,14.96,Primavera,14:00
+Tracy Manning DVM,Palma,Mercadona,Pan,3.25,Invierno,09:00
+Richard Newman,Bilbao,Alcampo,Atún,32.83,Invierno,15:00
+Norman Decker,Madrid,Aldi,Pan,41.67,Primavera,15:00
+Kenneth Murphy,Zaragoza,Carrefour,Manzanas,42.63,Primavera,11:00
+Curtis Simpson,Sevilla,Aldi,Leche,42.91,Verano,08:00
+Roberto Thomas,Málaga,Mercadona,Atún,28.41,Invierno,17:00
+Kara Williams,Palma,Bon Preu,Yogur,26.22,Verano,14:00
+Maureen Robinson,Madrid,Mercadona,Huevos,45.79,Primavera,20:00
+Jared Hill,Bilbao,Bon Preu,Pan,41.17,Otoño,17:00
+Bryan Castro,Bilbao,Aldi,Manzanas,37.31,Otoño,11:00
+Emily Farrell,Sevilla,Carrefour,Pollo,26.39,Invierno,21:00
+Christina Thompson,Murcia,Lidl,Pollo,41.71,Verano,13:00
+Devon Olson,Zaragoza,Carrefour,Yogur,14.14,Primavera,15:00
+Stephanie Fernandez,Las Palmas,El Corte Inglés,Atún,34.76,Verano,14:00
+Frank Bender,Valencia,El Corte Inglés,Atún,20.76,Otoño,20:00
+Jennifer Cisneros,Madrid,Carrefour,Huevos,32.31,Primavera,17:00
+Jeffrey Strickland,Málaga,Aldi,Huevos,49.39,Otoño,19:00
+Karen Barton,Barcelona,Carrefour,Huevos,44.44,Primavera,19:00
+Jessica Ray,Las Palmas,Eroski,Huevos,25.69,Primavera,17:00
+Deborah Herrera,Zaragoza,Consum,Pollo,27.55,Primavera,17:00
+Catherine Davis,Zaragoza,Carrefour,Pasta,23.02,Otoño,14:00
+Melissa Steele,Bilbao,Carrefour,Atún,19.55,Verano,17:00
+Julia Franklin,Bilbao,Carrefour,Manzanas,39.85,Otoño,15:00
+Dr. James Harris,Sevilla,Eroski,Huevos,21.19,Invierno,21:00
+Daniel Alexander,Palma,Dia,Manzanas,46.76,Primavera,13:00
+David Holder,Zaragoza,Consum,Tomates,12.42,Otoño,18:00
+Alejandro Evans,Zaragoza,Dia,Pan,47.1,Verano,08:00
+Joseph Cunningham,Barcelona,Aldi,Yogur,24.01,Verano,18:00
+Laurie Nelson,Zaragoza,Dia,Atún,37.24,Verano,18:00
+Leah Knight,Las Palmas,Mercadona,Huevos,16.87,Invierno,10:00
+David Mcgee,Barcelona,Eroski,Pasta,44.79,Primavera,10:00
+Caleb Arnold,Madrid,Carrefour,Tomates,4.16,Verano,13:00
+David Patterson,Madrid,Lidl,Yogur,27.0,Verano,15:00
+George Hawkins,Bilbao,Eroski,Tomates,16.48,Verano,13:00
+Donald Cook,Palma,Dia,Manzanas,42.54,Otoño,11:00
+Dylan Morales,Zaragoza,Alcampo,Tomates,18.6,Verano,08:00
+Shelby Walter,Murcia,Eroski,Manzanas,38.82,Invierno,20:00
+Natasha Forbes,Zaragoza,Bon Preu,Pan,32.26,Primavera,18:00
+Tracey Murray,Las Palmas,Consum,Arroz,5.05,Primavera,10:00
+Nicholas Murphy,Sevilla,Consum,Yogur,24.32,Primavera,17:00
+Rhonda Finley,Bilbao,El Corte Inglés,Yogur,38.02,Primavera,16:00
+John Hodges,Zaragoza,Dia,Tomates,18.93,Otoño,16:00
+Jill Salinas,Valencia,Carrefour,Arroz,36.0,Otoño,16:00
+Patty Lopez,Las Palmas,Consum,Pollo,13.14,Invierno,18:00
+Sarah Bauer,Palma,Eroski,Yogur,4.93,Invierno,13:00
+Andrew Rogers,Málaga,Eroski,Manzanas,30.6,Otoño,08:00
+Christopher Jenkins,Málaga,Dia,Yogur,44.93,Otoño,18:00
+Craig Roberts,Zaragoza,Eroski,Manzanas,18.56,Primavera,21:00
+Vanessa Beard,Madrid,Aldi,Huevos,39.88,Otoño,08:00
+Sharon Graham,Málaga,Consum,Tomates,34.92,Invierno,17:00
+Joseph Bentley,Las Palmas,Mercadona,Manzanas,41.44,Otoño,16:00
+Matthew Irwin,Sevilla,Bon Preu,Tomates,14.76,Primavera,19:00
+Elizabeth Powell,Málaga,Bon Preu,Pasta,32.48,Verano,19:00
+Sheila Rose,Valencia,Alcampo,Pollo,37.52,Primavera,09:00
+Gary Ford,Valencia,Mercadona,Manzanas,48.07,Invierno,14:00
+Alexis Rivera,Madrid,Dia,Pan,31.14,Invierno,10:00
+Michelle Williams,Zaragoza,Carrefour,Leche,21.24,Verano,08:00
+Roberto Thomas,Las Palmas,Consum,Pollo,23.46,Invierno,14:00
+Juan Davidson,Málaga,Mercadona,Manzanas,12.52,Otoño,13:00
+Matthew David,Zaragoza,Alcampo,Yogur,5.83,Verano,21:00
+Joshua Carter,Bilbao,El Corte Inglés,Manzanas,19.39,Invierno,13:00
+Cory Morris,Las Palmas,Lidl,Manzanas,8.27,Verano,18:00
+James Wright,Murcia,Mercadona,Leche,44.2,Verano,14:00
+Taylor Lopez,Zaragoza,Eroski,Huevos,14.16,Invierno,13:00
+Joshua Carter,Las Palmas,Carrefour,Leche,42.3,Primavera,15:00
+Lauren Owen,Sevilla,El Corte Inglés,Pasta,6.06,Invierno,12:00
+Caleb Livingston,Sevilla,El Corte Inglés,Huevos,11.11,Invierno,09:00
+Jason Smith,Palma,Mercadona,Pan,27.25,Verano,17:00
+Melissa Brown,Valencia,Aldi,Tomates,11.43,Primavera,15:00
+Maria Coleman,Zaragoza,Alcampo,Manzanas,48.1,Otoño,12:00
+Steven Moran,Madrid,Mercadona,Pasta,47.57,Primavera,10:00
+Richard Burton,Madrid,Carrefour,Atún,17.01,Primavera,08:00
+Beverly Adams DVM,Palma,Mercadona,Pan,42.29,Otoño,21:00
+Curtis Simpson,Las Palmas,Alcampo,Pan,40.71,Primavera,13:00
+Jessica Lawrence,Palma,Eroski,Pasta,9.59,Invierno,12:00
+David Mann,Las Palmas,Lidl,Arroz,48.73,Invierno,18:00
+Gina King,Palma,Dia,Huevos,2.27,Otoño,19:00
+Craig Smith,Murcia,Alcampo,Huevos,27.78,Otoño,20:00
+Kimberly Garza,Zaragoza,Carrefour,Pollo,11.31,Invierno,10:00
+Sandy Gould,Palma,Consum,Tomates,19.88,Primavera,09:00
+Stephanie Barnett,Sevilla,Bon Preu,Leche,7.03,Otoño,15:00
+Mr. Ronald Smith,Málaga,Lidl,Arroz,11.75,Otoño,12:00
+Mr. Scott Chambers,Las Palmas,Alcampo,Arroz,42.74,Invierno,08:00
+Matthew Jefferson,Madrid,Alcampo,Yogur,45.1,Invierno,10:00
+Stephanie Williams MD,Barcelona,Eroski,Atún,9.19,Otoño,13:00
+Jennifer Mooney,Sevilla,Consum,Atún,34.4,Invierno,16:00
+Alexa Knox,Las Palmas,Bon Preu,Pasta,11.43,Otoño,19:00
+Rebecca Hahn,Las Palmas,Eroski,Manzanas,3.2,Verano,18:00
+Danielle Page,Murcia,Alcampo,Pollo,35.85,Primavera,19:00
+Eric Cook,Málaga,Eroski,Pasta,21.27,Invierno,21:00
+Gabriella Jones,Málaga,Alcampo,Leche,25.42,Otoño,14:00
+Matthew Hamilton,Madrid,Aldi,Arroz,17.88,Invierno,21:00
+Daniel Lopez,Madrid,Mercadona,Pollo,36.77,Otoño,13:00
+Connie Adams,Palma,Eroski,Manzanas,36.83,Verano,20:00
+Kara Tate,Palma,Aldi,Arroz,35.73,Invierno,14:00
+Dr. Jesse Medina,Murcia,El Corte Inglés,Arroz,11.26,Otoño,15:00
+Anthony Berry,Madrid,Alcampo,Tomates,42.54,Verano,17:00
+Elizabeth Spencer,Palma,Carrefour,Atún,26.73,Verano,13:00
+Amy Williams DDS,Barcelona,Aldi,Pasta,41.5,Invierno,13:00
+Patricia Rodriguez,Sevilla,Mercadona,Huevos,23.02,Verano,15:00
+Thomas Evans,Málaga,El Corte Inglés,Manzanas,20.96,Invierno,15:00
+Gary Ford,Las Palmas,Bon Preu,Tomates,43.85,Primavera,10:00
+Mrs. Brittany Bowman,Málaga,Lidl,Pan,11.61,Primavera,11:00
+Arthur Baxter,Las Palmas,Dia,Tomates,48.7,Otoño,19:00
+Barbara Henderson,Valencia,Lidl,Arroz,28.54,Invierno,17:00
+James Powell,Valencia,El Corte Inglés,Pasta,28.11,Otoño,10:00
+Melissa Dudley,Madrid,Dia,Pasta,35.08,Verano,12:00
+Joshua Simmons,Las Palmas,Dia,Tomates,37.09,Verano,10:00
+Adam Phelps,Murcia,El Corte Inglés,Leche,33.57,Primavera,11:00
+Amber Burton,Palma,Consum,Huevos,22.73,Verano,19:00
+Kim Elliott,Murcia,Mercadona,Pasta,24.72,Otoño,14:00
+Katelyn Hanson,Málaga,Consum,Pan,36.36,Primavera,20:00
+Todd Collins,Las Palmas,Dia,Tomates,5.0,Otoño,18:00
+Brandon Salinas,Valencia,Bon Preu,Atún,48.15,Primavera,09:00
+Stephanie Cervantes MD,Bilbao,Alcampo,Manzanas,38.6,Primavera,19:00
+Brandi Walker,Madrid,Alcampo,Pan,22.84,Otoño,15:00
+Dr. James Harris,Palma,El Corte Inglés,Manzanas,32.19,Otoño,15:00
+Laura Ortiz,Las Palmas,Alcampo,Pan,41.72,Invierno,19:00
+Lisa Jackson,Sevilla,Eroski,Atún,6.6,Verano,16:00
+Jamie Sanders,Murcia,Bon Preu,Atún,32.86,Verano,12:00
+Jason Brock,Murcia,Mercadona,Pasta,34.19,Otoño,10:00
+Brian Scott,Sevilla,Aldi,Pan,35.5,Otoño,14:00
+Steven Parker,Madrid,Lidl,Yogur,16.13,Otoño,12:00
+Taylor Roberts,Barcelona,Aldi,Manzanas,48.83,Verano,13:00
+Victoria Baker,Valencia,Consum,Pollo,13.76,Invierno,21:00
+Caroline Donovan,Murcia,Aldi,Arroz,37.45,Primavera,08:00
+Richard Newman,Barcelona,Alcampo,Yogur,44.91,Invierno,17:00
+Devin Marshall,Palma,Dia,Tomates,14.64,Invierno,18:00
+Aaron Jones,Murcia,Eroski,Pan,16.4,Invierno,20:00
+Alexis Torres,Madrid,El Corte Inglés,Manzanas,47.75,Otoño,09:00
+Gregory Jacobson,Valencia,Bon Preu,Pasta,46.9,Invierno,11:00
+David Schwartz,Murcia,Mercadona,Pan,26.91,Verano,12:00
+Richard Burton,Barcelona,Mercadona,Leche,18.8,Verano,14:00
+Spencer Smith,Málaga,El Corte Inglés,Pollo,24.08,Verano,11:00
+Eric Gonzalez,Sevilla,Mercadona,Pollo,5.84,Otoño,11:00
+Nicholas Smith,Las Palmas,Carrefour,Pan,15.43,Verano,09:00
+Jill Turner,Barcelona,Eroski,Manzanas,12.84,Primavera,17:00
+Andrew Rogers,Madrid,Carrefour,Pan,39.88,Primavera,21:00
+Matthew Miller,Zaragoza,El Corte Inglés,Arroz,42.98,Primavera,19:00
+Mary Harrison,Sevilla,Eroski,Manzanas,45.83,Otoño,11:00
+Connie Lucas,Zaragoza,Carrefour,Leche,1.81,Primavera,14:00
+Ashley Reid,Madrid,Dia,Manzanas,44.62,Otoño,10:00
+Kenneth Foster,Palma,Eroski,Atún,25.43,Otoño,19:00
+Michael Dennis,Murcia,Bon Preu,Pasta,32.74,Invierno,13:00
+Roger Mullins,Barcelona,Dia,Pan,27.52,Invierno,12:00
+Kurt Ortiz,Sevilla,Mercadona,Arroz,9.98,Primavera,12:00
+Sarah Johnston,Valencia,Lidl,Arroz,4.99,Otoño,14:00
+Benjamin Bennett,Las Palmas,Carrefour,Pollo,15.98,Primavera,08:00
+James Buck,Madrid,Carrefour,Leche,39.38,Primavera,18:00
+Timothy Jones,Bilbao,Lidl,Huevos,27.55,Primavera,18:00
+Mary Mccullough,Valencia,Dia,Huevos,42.96,Otoño,21:00
+Tabitha Fitzgerald MD,Málaga,Dia,Atún,2.24,Verano,08:00
+David Patterson,Málaga,Aldi,Huevos,19.28,Verano,13:00
+Devin Marshall,Madrid,Dia,Tomates,12.94,Otoño,10:00
+Catherine Davis,Valencia,Consum,Manzanas,17.73,Primavera,16:00
+Gilbert Smith,Barcelona,Dia,Atún,45.91,Invierno,11:00
+Amanda Wilkinson,Madrid,Eroski,Pollo,36.69,Verano,17:00
+Sarah Bauer,Zaragoza,Aldi,Pasta,19.05,Primavera,09:00
+Alexander Booth,Sevilla,Alcampo,Huevos,0.62,Primavera,16:00
+Ray Wilson,Málaga,Consum,Pasta,33.34,Invierno,13:00
+Tamara Garcia,Palma,El Corte Inglés,Pasta,22.31,Invierno,10:00
+Christopher Terry,Palma,Eroski,Manzanas,33.5,Otoño,19:00
+Kathleen Daniels,Bilbao,Dia,Arroz,14.33,Otoño,12:00
+Wendy Arias,Murcia,Consum,Tomates,13.96,Primavera,08:00
+Mrs. Ann Powers,Sevilla,Consum,Tomates,9.74,Primavera,11:00
+Amber Burton,Murcia,Mercadona,Yogur,8.93,Primavera,19:00
+Maureen Robinson,Sevilla,Mercadona,Leche,14.64,Primavera,19:00
+Wesley Wheeler,Las Palmas,Eroski,Pasta,49.37,Invierno,08:00
+Benjamin Nelson,Madrid,Bon Preu,Huevos,23.87,Otoño,10:00
+Emily Wise,Palma,El Corte Inglés,Arroz,21.25,Verano,13:00
+Nathan Brown,Murcia,Consum,Pasta,30.59,Verano,14:00
+Tamara Glover,Zaragoza,Bon Preu,Tomates,2.74,Verano,18:00
+Cynthia Mayer,Bilbao,Aldi,Pasta,30.87,Otoño,13:00
+Dana Rogers,Murcia,Bon Preu,Atún,7.82,Invierno,08:00
+Katie Martin,Sevilla,El Corte Inglés,Leche,14.75,Verano,14:00
+Michael Reyes,Bilbao,Dia,Leche,45.76,Invierno,19:00
+Dr. Jesse Medina,Málaga,Alcampo,Pollo,47.56,Primavera,13:00
+Timothy Lopez,Málaga,Consum,Pasta,8.22,Invierno,10:00
+Jenny Brock,Valencia,Dia,Huevos,33.52,Invierno,18:00
+Joel Thompson,Barcelona,Carrefour,Pollo,30.44,Primavera,18:00
+Anthony Berry,Murcia,Bon Preu,Tomates,44.03,Invierno,17:00
+Jessica Andrade,Madrid,Dia,Tomates,21.09,Otoño,16:00
+Alexander Booth,Murcia,Carrefour,Pasta,35.1,Primavera,10:00
+Daniel Davenport,Zaragoza,Bon Preu,Yogur,0.66,Otoño,18:00
+Spencer Smith,Madrid,Eroski,Yogur,11.89,Primavera,11:00
+Monica Henry,Málaga,Lidl,Atún,6.56,Primavera,09:00
+Jeffrey Fox,Palma,Carrefour,Leche,31.2,Primavera,20:00
+Lori Howell,Barcelona,Bon Preu,Arroz,25.57,Primavera,14:00
+Cody Garza,Las Palmas,Bon Preu,Pan,33.67,Invierno,09:00
+Christopher Smith,Zaragoza,Aldi,Pollo,4.4,Primavera,18:00
+Anthony Suarez,Bilbao,Alcampo,Pollo,41.94,Primavera,20:00
+Ana Simmons,Zaragoza,El Corte Inglés,Atún,26.41,Verano,19:00
+Richard Newman,Barcelona,Aldi,Atún,22.52,Otoño,17:00
+Marisa Smith,Sevilla,Carrefour,Tomates,14.17,Otoño,15:00
+Caitlin Simpson,Palma,Consum,Manzanas,12.25,Invierno,12:00
+Ann Johnson,Palma,Lidl,Pollo,24.81,Otoño,21:00
+Benjamin Nelson,Sevilla,Consum,Pasta,36.57,Verano,10:00
+Lori Howell,Madrid,Carrefour,Manzanas,13.61,Invierno,11:00
+Chase Martinez,Zaragoza,Carrefour,Tomates,6.73,Verano,13:00
+Tammy Herrera,Las Palmas,Alcampo,Arroz,23.09,Invierno,18:00
+Anthony Terrell,Valencia,Bon Preu,Arroz,28.71,Primavera,21:00
+Christopher Erickson,Bilbao,Aldi,Yogur,11.53,Verano,11:00
+Andrew Rogers,Palma,Lidl,Pollo,1.17,Primavera,08:00
+Miss Lisa Long,Bilbao,Consum,Leche,42.88,Verano,21:00
+Karen Smith,Murcia,Mercadona,Huevos,17.18,Invierno,17:00
+Thomas Mooney,Sevilla,Dia,Yogur,39.71,Verano,21:00
+Ian Barnes,Murcia,Lidl,Huevos,39.02,Primavera,14:00
+Jeremy Ritter,Zaragoza,Carrefour,Manzanas,11.6,Invierno,19:00
+Michael Mckenzie,Palma,Carrefour,Pollo,38.32,Otoño,18:00
+Dr. Laura Coleman DDS,Murcia,Dia,Atún,32.15,Primavera,19:00
+April Holt,Sevilla,Lidl,Huevos,3.35,Invierno,15:00
+Melanie Conley,Sevilla,Mercadona,Yogur,27.58,Invierno,10:00
+Thomas Cox,Las Palmas,Lidl,Tomates,18.56,Invierno,10:00
+Catherine Ford,Málaga,Lidl,Manzanas,36.01,Otoño,08:00
+Jeffery Hoover,Valencia,El Corte Inglés,Manzanas,19.3,Verano,09:00
+Thomas Evans,Málaga,Dia,Pollo,39.46,Invierno,12:00
+Michael Perez,Palma,Mercadona,Yogur,0.62,Primavera,17:00
+Chelsea Reese,Valencia,Aldi,Huevos,12.16,Otoño,18:00
+Daniel Alexander,Zaragoza,Carrefour,Pan,45.97,Verano,14:00
+Monica Henry,Madrid,Mercadona,Atún,22.42,Primavera,19:00
+Jason Smith,Barcelona,Mercadona,Huevos,17.88,Verano,09:00
+Whitney Quinn,Las Palmas,El Corte Inglés,Leche,33.74,Invierno,11:00
+Joel Mason,Barcelona,Eroski,Pasta,38.0,Otoño,08:00
+John Jenkins,Sevilla,Aldi,Tomates,38.8,Otoño,16:00
+Lisa Stone,Murcia,Eroski,Pan,24.94,Invierno,15:00
+Brian Fisher,Barcelona,El Corte Inglés,Leche,32.83,Invierno,15:00
+Richard Smith,Bilbao,Bon Preu,Manzanas,2.37,Otoño,12:00
+Nicole Torres,Madrid,Carrefour,Yogur,10.09,Invierno,09:00
+Kyle Mullen DDS,Palma,Carrefour,Tomates,43.07,Otoño,12:00
+Luis Allen,Palma,Carrefour,Pasta,48.47,Invierno,10:00
+Carlos Wheeler,Bilbao,Consum,Leche,9.04,Otoño,14:00
+Mr. Christopher Stevens,Zaragoza,Mercadona,Tomates,24.24,Primavera,19:00
+Andrew Garza,Zaragoza,El Corte Inglés,Pan,36.67,Invierno,08:00
+Mr. Donald Nguyen,Valencia,Mercadona,Pasta,34.9,Otoño,10:00
+Tyler Villarreal,Bilbao,Eroski,Pollo,6.19,Invierno,20:00
+Dennis Lopez,Barcelona,Aldi,Pasta,2.33,Verano,10:00
+Tracy Hall,Murcia,Lidl,Pan,37.22,Otoño,13:00
+Krista Delgado,Murcia,Bon Preu,Yogur,22.9,Primavera,21:00
+James Rojas,Sevilla,Eroski,Pan,37.32,Otoño,21:00
+Angela Martin,Murcia,Eroski,Huevos,31.95,Otoño,14:00
+Jennifer Johnson,Bilbao,Consum,Atún,36.14,Verano,10:00
+Craig Smith,Zaragoza,Eroski,Arroz,21.85,Invierno,20:00
+Valerie Curry,Sevilla,Mercadona,Leche,13.66,Invierno,21:00
+Christopher Hall,Málaga,Mercadona,Yogur,41.58,Invierno,10:00
+Jason Scott,Barcelona,El Corte Inglés,Leche,47.13,Otoño,10:00
+Glenn Hodges,Barcelona,Eroski,Huevos,4.46,Verano,21:00
+Scott Franco,Málaga,Carrefour,Huevos,9.57,Verano,20:00
+Mark Gray,Zaragoza,Bon Preu,Arroz,12.58,Otoño,11:00
+Casey Davis,Las Palmas,Bon Preu,Huevos,40.59,Primavera,13:00
+Stephanie Fernandez,Valencia,Consum,Yogur,11.33,Verano,17:00
+Hannah Jones,Murcia,El Corte Inglés,Pollo,10.04,Otoño,08:00
+Mark Jones,Barcelona,Bon Preu,Atún,24.94,Otoño,08:00
+Sarah Burns,Málaga,Bon Preu,Pan,30.46,Otoño,13:00
+Jasmine Solomon,Málaga,Bon Preu,Manzanas,18.29,Primavera,15:00
+Albert Clarke,Valencia,Dia,Huevos,6.47,Invierno,09:00
+Amber Porter,Palma,Dia,Tomates,23.03,Verano,16:00
+David Mann,Murcia,Dia,Yogur,11.25,Verano,19:00
+Matthew Murphy,Barcelona,Lidl,Atún,27.81,Primavera,15:00
+Adam Walker,Bilbao,Consum,Pollo,23.28,Verano,20:00
+Brittany Mcbride,Madrid,Lidl,Huevos,12.58,Primavera,17:00
+Michelle Kline,Sevilla,Mercadona,Yogur,47.35,Verano,11:00
+Thomas Webb,Zaragoza,Eroski,Pan,24.54,Primavera,19:00
+Albert Phillips,Murcia,Alcampo,Atún,3.8,Otoño,15:00
+Timothy Rodriguez,Madrid,Carrefour,Pasta,34.9,Verano,08:00
+Kara Hernandez,Madrid,Dia,Yogur,43.58,Primavera,20:00
+Todd Burke,Sevilla,Bon Preu,Yogur,25.83,Verano,14:00
+Steven Smith,Palma,Eroski,Pollo,45.97,Primavera,10:00
+Joseph Cunningham,Las Palmas,Aldi,Yogur,15.14,Primavera,12:00
+Jenny Brock,Barcelona,Eroski,Arroz,45.02,Otoño,18:00
+Krista Delgado,Murcia,Consum,Leche,44.81,Otoño,10:00
+Nicholas Murphy,Murcia,Eroski,Yogur,30.54,Verano,09:00
+Andrew Burns,Valencia,Alcampo,Tomates,31.34,Otoño,11:00
+Heather Navarro,Palma,Consum,Atún,20.83,Invierno,12:00
+Lori Howell,Sevilla,Mercadona,Huevos,40.57,Invierno,08:00
+Samantha Smith,Palma,Lidl,Arroz,36.26,Verano,11:00
+Caleb Robinson,Sevilla,Aldi,Leche,20.77,Otoño,20:00
+Mary Harrison,Barcelona,Bon Preu,Pan,5.08,Invierno,20:00
+Stephanie Thomas,Madrid,El Corte Inglés,Leche,38.73,Verano,10:00
+Michael Aguirre,Murcia,Alcampo,Pan,32.73,Verano,12:00
+Barbara Henderson,Madrid,Dia,Arroz,42.3,Primavera,13:00
+Mark Li,Barcelona,Eroski,Pollo,44.33,Otoño,16:00
+Connie Adams,Las Palmas,Bon Preu,Huevos,7.93,Invierno,09:00
+Michael Wagner,Murcia,Mercadona,Huevos,5.75,Invierno,11:00
+Deborah Hoover,Las Palmas,El Corte Inglés,Manzanas,16.26,Primavera,10:00
+Dawn Manning,Málaga,Dia,Pollo,31.97,Otoño,18:00
+Marisa Smith,Madrid,Lidl,Arroz,1.31,Invierno,15:00
+Vanessa Beard,Málaga,Dia,Pan,41.63,Primavera,16:00
+James Rasmussen,Zaragoza,El Corte Inglés,Tomates,12.84,Otoño,20:00
+Lauren Owen,Barcelona,Bon Preu,Pan,43.6,Verano,14:00
+Timothy Barnes,Valencia,Carrefour,Manzanas,22.16,Primavera,14:00
+Carmen Baker,Bilbao,Consum,Pan,39.52,Verano,08:00
+Rhonda Cooper,Las Palmas,Dia,Yogur,38.99,Primavera,08:00
+Denise Herman,Zaragoza,Aldi,Yogur,11.44,Invierno,17:00
+Darrell Mccoy,Zaragoza,Bon Preu,Manzanas,22.7,Otoño,20:00
+Bailey Dunn,Murcia,Dia,Pasta,25.31,Verano,09:00
+Melinda Cisneros,Málaga,Mercadona,Huevos,43.03,Otoño,16:00
+Jeremy Reed,Zaragoza,Bon Preu,Arroz,27.62,Primavera,12:00
+Thomas Preston,Las Palmas,Lidl,Pasta,13.32,Invierno,15:00
+Jack Mercer,Málaga,Aldi,Yogur,31.21,Otoño,19:00
+Jean Norman,Murcia,Dia,Atún,47.77,Invierno,10:00
+Michael Lewis,Palma,Carrefour,Pan,5.48,Invierno,21:00
+Diana Baker,Palma,Aldi,Huevos,9.76,Invierno,15:00
+Theresa Smith MD,Madrid,El Corte Inglés,Manzanas,45.84,Otoño,20:00
+Ashley Mooney,Murcia,Bon Preu,Pollo,19.89,Otoño,12:00
+Rebekah Giles,Bilbao,Bon Preu,Pollo,36.26,Otoño,18:00
+Jessica Daniels,Palma,Bon Preu,Pasta,31.37,Invierno,18:00
+Jenna Martinez,Murcia,Carrefour,Atún,23.74,Primavera,17:00
+Traci Johnson,Málaga,Aldi,Arroz,34.04,Verano,08:00
+Willie Shaw,Zaragoza,Lidl,Atún,0.75,Otoño,19:00
+David Gould,Madrid,Dia,Leche,44.77,Invierno,17:00
+Nichole Zamora,Barcelona,Eroski,Arroz,42.28,Otoño,17:00
+Stephanie Mitchell,Zaragoza,Alcampo,Manzanas,41.25,Verano,09:00
+Timothy Barnes,Zaragoza,Consum,Pasta,45.08,Otoño,13:00
+Michael Johnson,Palma,Consum,Tomates,27.11,Otoño,14:00
+George Smith,Las Palmas,Eroski,Huevos,10.76,Otoño,11:00
+Tabitha Fitzgerald MD,Valencia,Mercadona,Arroz,30.25,Invierno,16:00
+Nicole Torres,Sevilla,Carrefour,Huevos,17.88,Verano,15:00
+Joshua Jarvis,Valencia,Carrefour,Huevos,15.17,Primavera,20:00
+Roger Davis,Sevilla,Dia,Pan,2.55,Invierno,12:00
+Brett Fuentes,Palma,Dia,Tomates,7.59,Invierno,12:00
+Laura Ortiz,Palma,Eroski,Manzanas,4.47,Otoño,09:00
+Janet Collins,Zaragoza,Consum,Pan,1.88,Verano,20:00
+Dawn King,Madrid,El Corte Inglés,Leche,23.43,Verano,21:00
+Tammy Herrera,Barcelona,Consum,Leche,4.8,Primavera,12:00
+David Strickland,Málaga,Carrefour,Leche,2.99,Primavera,08:00
+Nicole Young,Barcelona,Consum,Pan,10.04,Verano,21:00
+Todd Burke,Murcia,Eroski,Pan,7.86,Otoño,17:00
+Melissa Dudley,Zaragoza,Consum,Leche,9.22,Verano,08:00
+Timothy Rodriguez,Bilbao,Mercadona,Arroz,21.15,Otoño,20:00
+Angela Harrison,Valencia,Alcampo,Atún,36.13,Invierno,16:00
+Kristen Cain,Valencia,Eroski,Huevos,5.69,Primavera,20:00
+Tracy Hall,Murcia,Bon Preu,Tomates,19.42,Invierno,08:00
+Sarah Johnston,Palma,Eroski,Tomates,5.65,Primavera,21:00
+Terry Walton,Las Palmas,Mercadona,Pan,22.05,Verano,21:00
+Heather Gross,Barcelona,Aldi,Leche,43.6,Invierno,14:00
+Susan Williams,Barcelona,Bon Preu,Tomates,21.71,Primavera,08:00
+Krista Delgado,Bilbao,Mercadona,Arroz,24.3,Primavera,09:00
+Eric Curtis,Zaragoza,Consum,Manzanas,20.97,Primavera,14:00
+Becky Mitchell,Palma,Mercadona,Arroz,23.74,Primavera,21:00
+Christian Johnson,Murcia,Lidl,Manzanas,34.58,Verano,15:00
+Melissa Dudley,Sevilla,Consum,Pollo,37.82,Verano,11:00
+Lisa Stone,Las Palmas,El Corte Inglés,Leche,40.04,Otoño,17:00
+Dean Larson,Sevilla,Bon Preu,Huevos,15.48,Invierno,15:00
+Jeremy Ritter,Valencia,Eroski,Pasta,21.39,Invierno,16:00
+Rhonda Cooper,Sevilla,Aldi,Arroz,14.71,Otoño,20:00
+Dana Torres,Palma,El Corte Inglés,Tomates,19.71,Otoño,08:00
+Karen Smith,Sevilla,Lidl,Arroz,40.57,Verano,11:00
+Carla Cordova,Sevilla,Eroski,Pasta,20.58,Primavera,15:00
+Connie Barajas,Murcia,Consum,Arroz,40.38,Otoño,17:00
+James Cooper,Valencia,Eroski,Arroz,9.44,Invierno,20:00
+Nicole Hartman,Las Palmas,El Corte Inglés,Arroz,10.86,Primavera,16:00
+Jodi Boyd,Málaga,Bon Preu,Pan,5.57,Primavera,12:00
+Amanda Martin PhD,Bilbao,Consum,Pollo,12.55,Primavera,15:00
+Eric Gonzalez,Madrid,Mercadona,Leche,11.45,Primavera,15:00
+Tammy Huynh,Sevilla,Alcampo,Pan,20.59,Otoño,16:00
+Diane Hall,Barcelona,Dia,Arroz,22.66,Verano,16:00
+Lauren Wilkins,Zaragoza,Consum,Tomates,17.08,Otoño,13:00
+Alexander Garcia,Madrid,El Corte Inglés,Atún,15.46,Otoño,19:00
+Mark Hughes,Málaga,El Corte Inglés,Arroz,47.37,Verano,17:00
+Melissa Hernandez,Palma,Dia,Pasta,17.53,Otoño,12:00
+Shawna Williams,Bilbao,Aldi,Huevos,3.0,Verano,17:00
+Paul Wilson,Zaragoza,Mercadona,Huevos,22.67,Verano,16:00
+Kathleen Daniels,Murcia,Aldi,Arroz,43.04,Primavera,08:00
+Luis Carr,Barcelona,Dia,Pan,19.4,Verano,18:00
+Jeremy Hatfield,Valencia,El Corte Inglés,Yogur,41.59,Primavera,16:00
+Sylvia Hill,Málaga,Aldi,Tomates,31.71,Primavera,15:00
+Monica Martin,Málaga,Eroski,Pan,26.35,Invierno,20:00
+Kimberly Richard,Málaga,Dia,Arroz,36.96,Invierno,15:00
+David Thomas,Sevilla,Lidl,Manzanas,1.14,Invierno,12:00
+Brittany Campbell,Palma,Consum,Manzanas,20.78,Otoño,10:00
+Hannah Phillips,Palma,Consum,Huevos,34.31,Verano,11:00
+Stephanie Burke,Madrid,Carrefour,Pan,44.75,Otoño,15:00
+William Turner,Barcelona,Alcampo,Pan,34.94,Primavera,17:00
+Anthony Berry,Madrid,El Corte Inglés,Pan,27.14,Primavera,10:00
+Jessica Foster,Barcelona,Dia,Pan,7.59,Otoño,11:00
+Kayla Travis,Madrid,Bon Preu,Atún,32.64,Otoño,12:00
+Janet Collins,Madrid,Bon Preu,Tomates,47.58,Otoño,15:00
+Joel Mason,Málaga,El Corte Inglés,Arroz,25.82,Primavera,15:00
+Thomas Evans,Las Palmas,Eroski,Tomates,42.15,Otoño,18:00
+Richard Williamson,Sevilla,Consum,Arroz,10.75,Primavera,10:00
+Alexander Booth,Bilbao,Lidl,Yogur,36.21,Otoño,09:00
+Erika Solomon,Sevilla,Dia,Huevos,5.64,Verano,13:00
+April Richardson,Bilbao,Bon Preu,Huevos,3.27,Otoño,18:00
+Arthur Baxter,Madrid,Dia,Manzanas,25.33,Verano,14:00
+Dennis Lopez,Sevilla,Consum,Pasta,47.59,Invierno,14:00
+Elizabeth Anderson,Málaga,El Corte Inglés,Atún,45.82,Verano,15:00
+Melissa Tucker,Murcia,Carrefour,Yogur,17.84,Otoño,19:00
+Andrea Gardner,Zaragoza,Consum,Pasta,43.49,Primavera,10:00
+Julia Franklin,Sevilla,Lidl,Pollo,16.25,Verano,10:00
+Katelyn Baldwin,Palma,Mercadona,Manzanas,31.49,Otoño,21:00
+Linda Thompson,Barcelona,Dia,Arroz,44.01,Verano,19:00
+Michelle Thomas,Palma,Lidl,Pan,15.84,Otoño,14:00
+Sharon Graham,Palma,Dia,Atún,26.74,Otoño,18:00
+John Hooper,Málaga,Consum,Pollo,39.38,Otoño,15:00
+Michelle Proctor,Zaragoza,Bon Preu,Pollo,15.08,Invierno,09:00
+Jose Davis,Palma,Alcampo,Manzanas,15.48,Primavera,11:00
+Brandon Peterson,Madrid,Eroski,Tomates,1.73,Otoño,09:00
+Anna Newton,Sevilla,Alcampo,Huevos,21.33,Primavera,08:00
+Ashley Mckay,Bilbao,El Corte Inglés,Yogur,8.65,Primavera,20:00
+Michele Martinez,Las Palmas,Consum,Tomates,28.62,Invierno,10:00
+Joshua Dickerson,Murcia,El Corte Inglés,Pasta,49.95,Invierno,13:00
+Christopher Arnold,Valencia,Mercadona,Yogur,40.02,Primavera,18:00
+Gabriella Jones,Barcelona,Consum,Arroz,20.62,Otoño,09:00
+Dr. Laura Coleman DDS,Valencia,Consum,Arroz,4.66,Verano,13:00
+Aaron Wilson,Málaga,Alcampo,Arroz,19.5,Invierno,17:00
+Antonio Cox,Valencia,Eroski,Arroz,41.69,Primavera,17:00
+Kathleen Salazar,Málaga,Bon Preu,Huevos,10.03,Otoño,14:00
+Stephanie Williams MD,Valencia,Mercadona,Tomates,21.77,Verano,21:00
+Joel Howard,Zaragoza,Eroski,Tomates,2.62,Verano,19:00
+Gabriel Hess,Las Palmas,Bon Preu,Yogur,32.18,Verano,19:00
+Rebecca Moore,Valencia,Consum,Pan,3.72,Invierno,20:00
+Devon Curry,Bilbao,Mercadona,Leche,29.81,Otoño,12:00
+Taylor Lopez,Zaragoza,Aldi,Huevos,1.91,Invierno,08:00
+Rachel Mann,Madrid,Bon Preu,Pasta,43.53,Primavera,20:00
+Shelley Bates,Las Palmas,Bon Preu,Arroz,28.12,Otoño,17:00
+Joel Thompson,Palma,Carrefour,Manzanas,47.59,Otoño,16:00
+Steven Paul,Málaga,Dia,Pollo,47.0,Primavera,19:00
+Michelle Ramirez,Valencia,Carrefour,Pasta,27.51,Invierno,09:00
+Brittany Campbell,Bilbao,Carrefour,Arroz,43.07,Invierno,13:00
+David Brown,Palma,El Corte Inglés,Leche,23.31,Otoño,17:00
+Tracy Manning DVM,Murcia,El Corte Inglés,Yogur,17.57,Primavera,17:00
+Michael Wood,Zaragoza,Eroski,Pan,42.52,Primavera,10:00
+Dr. Nicholas Blackwell,Valencia,Dia,Arroz,27.36,Primavera,12:00
+Dylan Spencer,Málaga,Lidl,Leche,11.73,Invierno,14:00
+Jesus Parrish,Sevilla,Alcampo,Pan,45.24,Primavera,19:00
+Ronnie Powell,Las Palmas,Dia,Yogur,27.12,Verano,20:00
+Ana Simmons,Barcelona,Lidl,Yogur,40.07,Primavera,19:00
+Jessica Lawrence,Málaga,El Corte Inglés,Manzanas,16.32,Verano,09:00
+Daryl Hall,Málaga,Aldi,Pan,25.08,Invierno,08:00
+Daniel Crosby,Bilbao,Lidl,Leche,14.78,Invierno,18:00
+Benjamin Bennett,Bilbao,Mercadona,Arroz,37.81,Otoño,17:00
+Andrew Garza,Las Palmas,Lidl,Tomates,35.12,Verano,16:00
+Michael Turner,Madrid,Carrefour,Yogur,14.57,Invierno,18:00
+Cindy Pena,Valencia,Bon Preu,Huevos,12.11,Verano,15:00
+Todd Collins,Las Palmas,Lidl,Yogur,36.71,Otoño,08:00
+Ronald Hess,Málaga,Eroski,Atún,25.9,Primavera,09:00
+Kayla Brown,Valencia,Alcampo,Atún,39.3,Verano,13:00
+Denise Herman,Valencia,Bon Preu,Atún,37.95,Otoño,09:00
+Caleb Livingston,Valencia,Alcampo,Arroz,27.7,Otoño,11:00
+Sharon Hinton,Madrid,Alcampo,Arroz,9.21,Primavera,15:00
+Elizabeth Henry,Madrid,Eroski,Manzanas,43.41,Verano,16:00
+Oscar Joyce,Las Palmas,Lidl,Pan,41.96,Verano,14:00
+Deborah Nelson,Málaga,El Corte Inglés,Yogur,48.15,Verano,15:00
+April Holt,Málaga,Eroski,Tomates,28.07,Otoño,12:00
+Jacob Harding,Bilbao,Lidl,Atún,42.05,Otoño,13:00
+Melissa Steele,Sevilla,Aldi,Yogur,6.5,Verano,16:00
+Terry Spears,Murcia,Dia,Leche,40.56,Primavera,19:00
+Jasmine Solomon,Las Palmas,Eroski,Yogur,33.02,Otoño,17:00
+Maria Peterson,Barcelona,Mercadona,Arroz,15.76,Otoño,12:00
+Allen Henderson,Madrid,Consum,Huevos,27.41,Invierno,11:00
+Catherine Davis,Zaragoza,Aldi,Yogur,19.88,Invierno,09:00
+Adam Phelps,Madrid,El Corte Inglés,Pan,28.4,Otoño,10:00
+Jeffrey Strickland,Murcia,El Corte Inglés,Pan,4.63,Otoño,20:00
+Amy Williams DDS,Zaragoza,Consum,Pasta,30.65,Verano,12:00
+Carrie Schwartz,Bilbao,Consum,Atún,7.6,Otoño,10:00
+Brenda Rodriguez,Bilbao,Dia,Arroz,45.5,Verano,18:00
+Rebecca Hoover,Zaragoza,El Corte Inglés,Pan,21.18,Primavera,17:00
+Paul Walsh,Zaragoza,Carrefour,Huevos,33.0,Invierno,20:00
+Krista Delgado,Las Palmas,El Corte Inglés,Pan,13.99,Verano,09:00
+Cassandra Ritter,Zaragoza,Carrefour,Manzanas,38.57,Invierno,17:00
+Monica Martin,Valencia,Bon Preu,Arroz,22.84,Otoño,17:00
+Antonio Robinson,Las Palmas,Bon Preu,Pan,31.26,Otoño,10:00
+Nicholas Murphy,Zaragoza,Carrefour,Atún,9.28,Otoño,08:00
+Vanessa Beard,Madrid,El Corte Inglés,Pasta,23.1,Otoño,15:00
+Ray Wilson,Las Palmas,Aldi,Arroz,48.27,Invierno,18:00
+Spencer Smith,Palma,Aldi,Pan,24.1,Otoño,21:00
+Kathy Tucker,Málaga,Dia,Atún,47.96,Verano,16:00
+Monica Henry,Las Palmas,Consum,Pasta,36.63,Primavera,08:00
+Natalie Carrillo,Madrid,Mercadona,Leche,37.45,Otoño,08:00
+Linda Pearson,Barcelona,Carrefour,Arroz,30.67,Primavera,19:00
+Michael Stewart,Palma,Carrefour,Pollo,46.79,Otoño,12:00
+Ryan Jones,Sevilla,Carrefour,Atún,46.14,Verano,16:00
+William Franco,Las Palmas,Carrefour,Tomates,41.06,Primavera,21:00
+Lisa Weaver,Las Palmas,Dia,Pan,8.42,Verano,20:00
+Mr. Jackson Cook DVM,Madrid,Aldi,Pollo,39.52,Primavera,20:00
+Kaitlyn Wilkerson MD,Valencia,Aldi,Pollo,22.56,Primavera,11:00
+Rebecca Hoover,Málaga,Eroski,Tomates,42.38,Verano,20:00
+Sharon Curtis,Murcia,Consum,Arroz,38.06,Otoño,13:00
+Megan Silva,Palma,Alcampo,Manzanas,1.3,Verano,19:00
+Brandon Salinas,Murcia,Aldi,Pollo,44.38,Verano,08:00
+Natasha Forbes,Barcelona,Bon Preu,Leche,49.48,Primavera,15:00
+Danielle Erickson,Málaga,El Corte Inglés,Manzanas,46.91,Invierno,10:00
+Joann Brown,Zaragoza,Mercadona,Pasta,24.4,Verano,08:00
+Heather Gross,Bilbao,Alcampo,Pasta,19.37,Verano,13:00
+Michael Reyes,Palma,Lidl,Atún,36.7,Primavera,18:00
+Maria Peterson,Las Palmas,Dia,Leche,10.26,Otoño,20:00
+Jason Miller,Sevilla,Alcampo,Yogur,22.15,Primavera,17:00
+James Baker,Bilbao,Eroski,Leche,17.53,Primavera,15:00
+Dana Rogers,Las Palmas,Lidl,Huevos,46.6,Verano,14:00
+Deborah Gross,Sevilla,Aldi,Pollo,8.45,Invierno,17:00
+William Turner,Málaga,Eroski,Leche,8.3,Verano,16:00
+Todd Mcgrath,Barcelona,Eroski,Pan,2.94,Primavera,18:00
+Lori Bentley,Las Palmas,Aldi,Yogur,41.42,Primavera,19:00
+Mark Nelson,Palma,Lidl,Huevos,16.12,Otoño,20:00
+Mary Guzman,Barcelona,Eroski,Tomates,20.66,Otoño,21:00
+Raymond Phillips,Barcelona,Carrefour,Yogur,48.88,Invierno,09:00
+Anthony Suarez,Málaga,Lidl,Pasta,43.2,Otoño,20:00
+Lucas Rivera,Sevilla,Consum,Atún,49.29,Invierno,12:00
+Carrie Schwartz,Barcelona,Lidl,Manzanas,41.64,Primavera,10:00
+Elizabeth Tucker,Madrid,Bon Preu,Pan,26.59,Primavera,13:00
+William Miller,Sevilla,Eroski,Tomates,33.47,Otoño,09:00
+Steven Moran,Barcelona,Eroski,Leche,40.6,Otoño,17:00
+Norma Willis,Málaga,Consum,Manzanas,15.5,Invierno,19:00
+John Duarte,Barcelona,Aldi,Arroz,38.0,Primavera,15:00
+Devon Olson,Madrid,Lidl,Leche,45.08,Otoño,10:00
+Kara Hernandez,Valencia,Lidl,Manzanas,25.18,Verano,16:00
+Mary Conner,Valencia,Alcampo,Yogur,35.05,Otoño,09:00
+Eric Walker,Madrid,Dia,Atún,38.14,Invierno,12:00
+Gregory Jacobson,Palma,Carrefour,Leche,18.43,Invierno,08:00
+Dr. James Harris,Bilbao,Carrefour,Tomates,29.53,Invierno,14:00
+Spencer Smith,Madrid,Carrefour,Yogur,39.49,Otoño,19:00
+Steven Moran,Zaragoza,Alcampo,Tomates,39.84,Invierno,09:00
+Heather Navarro,Palma,Mercadona,Leche,14.64,Otoño,18:00
+Lucas Rivera,Bilbao,Consum,Yogur,45.3,Verano,21:00
+Nicole Torres,Sevilla,Aldi,Huevos,22.16,Verano,18:00
+Kimberly Richard,Bilbao,Carrefour,Pasta,40.62,Primavera,20:00
+Monica Rojas,Zaragoza,Bon Preu,Arroz,24.49,Invierno,09:00
+Karen Barton,Barcelona,Lidl,Pasta,41.9,Primavera,21:00
+Kathryn Ferguson,Málaga,Carrefour,Leche,7.03,Verano,10:00
+Jason Scott,Madrid,Bon Preu,Pan,7.56,Verano,11:00
+Bruce Trevino,Bilbao,Consum,Tomates,21.78,Invierno,19:00
+Tracy Manning DVM,Bilbao,Lidl,Yogur,12.3,Otoño,08:00
+Michael Reyes,Málaga,Bon Preu,Atún,13.81,Otoño,19:00
+Mrs. Brittany Bowman,Bilbao,Eroski,Atún,34.68,Primavera,13:00
+Thomas Mooney,Sevilla,Dia,Leche,18.66,Primavera,13:00
+Carolyn Leach,Las Palmas,Aldi,Pasta,11.14,Invierno,09:00
+Elizabeth Tucker,Palma,Consum,Huevos,36.91,Invierno,11:00
+Amanda Gomez,Barcelona,Lidl,Atún,19.64,Verano,18:00
+Dr. Kellie Rowe,Bilbao,Alcampo,Manzanas,46.36,Invierno,19:00
+Brian Anderson,Barcelona,Alcampo,Pan,11.34,Verano,08:00
+Melanie Montgomery,Barcelona,Dia,Tomates,34.0,Otoño,14:00
+Jessica Andrade,Sevilla,Lidl,Huevos,45.19,Otoño,11:00
+Caitlin Garcia,Bilbao,Consum,Manzanas,6.18,Invierno,17:00
+Kara Mendez,Zaragoza,Lidl,Tomates,22.67,Verano,20:00
+Laurie Nelson,Madrid,Carrefour,Pollo,12.71,Invierno,10:00
+Darren Davis,Málaga,Lidl,Arroz,28.45,Verano,14:00
+Jeremy Ritter,Bilbao,Eroski,Manzanas,47.59,Primavera,16:00
+Ashley Curry,Palma,Lidl,Huevos,7.92,Verano,08:00
+Ryan Jones,Zaragoza,Alcampo,Pan,36.83,Verano,10:00
+Kevin Henderson,Málaga,Bon Preu,Atún,39.86,Otoño,17:00
+Matthew Garcia,Bilbao,Alcampo,Pan,27.65,Otoño,10:00
+Kimberly Garza,Murcia,Mercadona,Manzanas,27.17,Invierno,13:00
+Paul Vang,Las Palmas,Carrefour,Huevos,45.68,Invierno,18:00
+Alicia Smith,Las Palmas,Aldi,Leche,10.49,Invierno,13:00
+Allen Henderson,Valencia,Alcampo,Manzanas,18.41,Verano,10:00
+Eric Tucker,Valencia,Carrefour,Pollo,18.6,Verano,12:00
+Michael Wagner,Las Palmas,El Corte Inglés,Pasta,42.79,Verano,18:00
+Roberto Reilly,Málaga,Carrefour,Atún,31.07,Verano,10:00
+Sharon Graham,Bilbao,Aldi,Yogur,14.0,Verano,11:00
+Richard Alvarez,Málaga,Mercadona,Pasta,4.67,Verano,10:00
+Kristen Williams,Madrid,El Corte Inglés,Arroz,41.03,Primavera,13:00
+Dr. Stephanie Hurley,Las Palmas,Aldi,Manzanas,39.43,Verano,17:00
+Kelly Mccoy,Madrid,Aldi,Huevos,24.87,Primavera,11:00
+Ashley Curry,Málaga,Bon Preu,Yogur,21.03,Primavera,12:00
+Catherine Morris,Barcelona,Aldi,Yogur,33.14,Otoño,08:00
+Thomas Sullivan,Madrid,Aldi,Manzanas,39.22,Invierno,16:00
+Daniel Campbell,Valencia,Mercadona,Arroz,38.9,Invierno,14:00
+Dr. Laura Coleman DDS,Murcia,Mercadona,Huevos,31.87,Verano,15:00
+Mary Harrison,Sevilla,Mercadona,Manzanas,10.45,Invierno,08:00
+Thomas Preston,Las Palmas,Mercadona,Pasta,11.84,Verano,21:00
+Ann Johnson,Sevilla,Aldi,Atún,21.14,Verano,12:00
+Devon Olson,Las Palmas,Alcampo,Pasta,41.73,Invierno,18:00
+Joy Vargas,Madrid,El Corte Inglés,Tomates,17.0,Verano,10:00
+Neil Palmer,Las Palmas,Bon Preu,Arroz,31.46,Otoño,17:00
+Caleb Reed,Málaga,Carrefour,Atún,43.87,Otoño,20:00
+Rebecca Hahn,Zaragoza,Bon Preu,Tomates,7.99,Primavera,10:00
+Chelsea Reese,Sevilla,Eroski,Pollo,19.73,Otoño,11:00
+Marcus Smith,Palma,Bon Preu,Huevos,6.76,Primavera,21:00
+Michael Turner,Murcia,Lidl,Pan,14.25,Verano,16:00
+Juan Pratt,Murcia,Consum,Leche,11.47,Verano,15:00
+Michael Kane,Barcelona,Carrefour,Pan,7.83,Invierno,08:00
+Thomas Evans,Las Palmas,El Corte Inglés,Leche,25.45,Otoño,16:00
+Cheryl Campbell,Bilbao,Bon Preu,Manzanas,23.91,Verano,08:00
+Brendan Schwartz,Málaga,Alcampo,Yogur,36.81,Verano,16:00
+Michael Dawson,Las Palmas,Eroski,Atún,25.1,Primavera,12:00
+Deborah Nelson,Palma,Eroski,Tomates,24.67,Otoño,09:00
+Melissa Bennett,Barcelona,El Corte Inglés,Pollo,30.88,Verano,13:00
+Steve Wallace,Málaga,Mercadona,Pollo,6.17,Otoño,17:00
+Kayla Travis,Sevilla,Mercadona,Yogur,5.75,Verano,13:00
+Lori Weber,Barcelona,Dia,Arroz,6.15,Otoño,12:00
+William Waller,Valencia,Alcampo,Pollo,31.43,Invierno,08:00
+Jason Johnson,Murcia,El Corte Inglés,Tomates,24.1,Primavera,13:00
+Aaron Wilson,Murcia,Consum,Pan,17.82,Invierno,10:00
+Rebecca Chambers,Málaga,Bon Preu,Huevos,27.34,Invierno,14:00
+Donna Hammond,Barcelona,Aldi,Pasta,33.58,Primavera,08:00
+Jessica Cooley,Barcelona,Carrefour,Tomates,4.51,Verano,08:00
+Misty Casey,Madrid,Eroski,Atún,35.65,Otoño,09:00
+Jerry Williams,Palma,Eroski,Huevos,46.51,Otoño,20:00
+Lisa Weaver,Madrid,El Corte Inglés,Pasta,19.7,Invierno,20:00
+Aaron Weiss,Zaragoza,Aldi,Huevos,22.71,Otoño,16:00
+Brandon Robinson,Las Palmas,Eroski,Pollo,41.62,Verano,09:00
+Connie Lucas,Málaga,Dia,Arroz,36.79,Invierno,13:00
+Oscar Joyce,Sevilla,Alcampo,Yogur,3.49,Verano,16:00
+Betty Johnson,Las Palmas,Carrefour,Pasta,42.58,Invierno,08:00
+Traci Johnson,Zaragoza,Bon Preu,Manzanas,18.08,Otoño,11:00
+Brett Fuentes,Las Palmas,Lidl,Pollo,20.49,Primavera,08:00
+Rebecca Chambers,Palma,Consum,Manzanas,1.53,Primavera,17:00
+Amanda Huerta,Valencia,Dia,Huevos,24.51,Invierno,20:00
+Jill Turner,Barcelona,Alcampo,Leche,27.88,Otoño,11:00
+Darrell Mccoy,Palma,El Corte Inglés,Huevos,39.04,Primavera,21:00
+Nicholas Smith,Valencia,Carrefour,Pan,33.29,Primavera,17:00
+Lisa Dickerson,Bilbao,Mercadona,Pasta,15.66,Invierno,09:00
+Nathan Jones,Madrid,Aldi,Manzanas,11.27,Primavera,18:00
+Aaron Wilson,Málaga,El Corte Inglés,Leche,34.13,Primavera,10:00
+James Thompson,Palma,Dia,Manzanas,27.24,Primavera,20:00
+Jasmine Solomon,Murcia,Mercadona,Arroz,13.84,Otoño,20:00
+Rhonda Cooper,Murcia,Carrefour,Manzanas,45.49,Verano,12:00
+Adam Phelps,Las Palmas,Aldi,Arroz,42.44,Verano,08:00
+Barry Hall,Zaragoza,Alcampo,Yogur,29.86,Otoño,18:00
+Jason Davis,Las Palmas,Alcampo,Huevos,27.07,Invierno,09:00
+Stephanie Williams MD,Murcia,Aldi,Manzanas,45.66,Otoño,15:00
+Dr. Dana Ramsey,Madrid,Aldi,Manzanas,44.34,Otoño,14:00
+Timothy Jones,Zaragoza,Bon Preu,Pollo,49.64,Primavera,08:00
+Amber Burton,Bilbao,Bon Preu,Leche,7.19,Primavera,14:00
+Jeremy Hanson,Palma,Alcampo,Pan,49.3,Verano,13:00
+Jeffery Hoover,Bilbao,Mercadona,Arroz,42.06,Primavera,12:00
+Alyssa Moore,Las Palmas,Bon Preu,Pollo,29.93,Verano,15:00
+Ronnie Brown,Sevilla,Dia,Manzanas,36.25,Invierno,15:00
+David Holder,Murcia,Bon Preu,Huevos,27.79,Verano,13:00
+Matthew Garcia,Barcelona,Carrefour,Arroz,49.87,Primavera,12:00
+Wayne Matthews,Zaragoza,Dia,Manzanas,26.02,Verano,09:00
+Monica Lawson,Madrid,Lidl,Manzanas,20.65,Invierno,14:00
+Lawrence Rosario,Murcia,El Corte Inglés,Manzanas,0.87,Verano,13:00
+Laura Ortiz,Murcia,El Corte Inglés,Yogur,10.45,Invierno,14:00
+Anna Newton,Valencia,Bon Preu,Arroz,9.7,Verano,10:00
+Joseph Ross,Madrid,Carrefour,Pasta,25.58,Invierno,12:00
+Dean Rowe,Palma,Consum,Pasta,24.18,Invierno,14:00
+Laurie Nelson,Sevilla,Consum,Atún,34.32,Verano,16:00
+Casey Davis,Valencia,Mercadona,Manzanas,24.44,Otoño,08:00
+Anthony Miller,Barcelona,Mercadona,Yogur,38.41,Verano,17:00
+Michael Aguirre,Valencia,El Corte Inglés,Pasta,29.69,Primavera,19:00
+Tanya Oliver,Málaga,Mercadona,Pollo,11.39,Primavera,16:00
+Steven Harris,Murcia,Consum,Leche,41.36,Primavera,13:00
+John Turner MD,Málaga,Mercadona,Manzanas,35.62,Otoño,17:00
+Tracy Manning DVM,Zaragoza,Dia,Atún,14.52,Invierno,10:00
+Kristin Benitez,Murcia,El Corte Inglés,Pollo,44.89,Verano,15:00
+Brian Hall,Madrid,Lidl,Manzanas,29.82,Primavera,14:00
+Melvin Martinez,Barcelona,Lidl,Pan,39.1,Otoño,12:00
+Craig Smith,Valencia,Bon Preu,Pasta,11.33,Primavera,20:00
+Jade Mason,Valencia,Lidl,Leche,17.86,Invierno,17:00
+Deborah Nelson,Madrid,Dia,Leche,0.89,Invierno,17:00
+Monica Lawson,Málaga,Alcampo,Leche,49.32,Primavera,21:00
+Randy Willis,Sevilla,Bon Preu,Pasta,10.73,Verano,21:00
+Jose Davis,Sevilla,Consum,Atún,29.8,Verano,09:00
+Victoria Baker,Sevilla,Carrefour,Huevos,48.52,Invierno,19:00
+Carolyn Leach,Bilbao,El Corte Inglés,Huevos,9.16,Otoño,10:00
+David Morris,Valencia,Alcampo,Pasta,8.67,Verano,10:00
+Robert Morris,Zaragoza,Bon Preu,Arroz,7.46,Otoño,12:00
+Kim Elliott,Zaragoza,Lidl,Tomates,14.72,Verano,15:00
+Melissa Tucker,Zaragoza,Lidl,Manzanas,3.3,Invierno,15:00
+Dr. Dana Ramsey,Barcelona,Mercadona,Leche,24.31,Primavera,19:00
+Dr. Jennifer Mullins,Zaragoza,Consum,Manzanas,48.38,Primavera,20:00
+Mr. William Miller,Málaga,Mercadona,Pollo,23.14,Verano,11:00
+Jasmine Solomon,Murcia,Lidl,Leche,3.86,Verano,18:00
+Garrett Lee,Sevilla,Alcampo,Atún,31.22,Otoño,12:00
+Melissa Dudley,Valencia,Eroski,Yogur,39.56,Invierno,19:00
+Todd Burke,Valencia,Eroski,Yogur,4.15,Verano,15:00
+Mary Harrison,Valencia,El Corte Inglés,Pasta,36.09,Otoño,21:00
+Amy Smith,Valencia,Bon Preu,Tomates,36.71,Verano,15:00
+Ashley Miller,Las Palmas,Eroski,Pasta,35.28,Invierno,16:00
+Brittany Anthony,Zaragoza,Carrefour,Leche,15.1,Otoño,10:00
+Ronald Robinson,Palma,Mercadona,Leche,24.56,Verano,18:00
+Michael Rodriguez,Sevilla,Carrefour,Huevos,26.34,Primavera,16:00
+Crystal Bright,Málaga,El Corte Inglés,Pollo,27.65,Primavera,14:00
+Sherry Gilmore,Barcelona,Lidl,Huevos,18.98,Invierno,17:00
+Eric Cook,Bilbao,El Corte Inglés,Pollo,43.08,Verano,18:00
+Margaret Robinson,Sevilla,Dia,Pan,5.56,Invierno,09:00
+Anthony Simpson,Sevilla,Aldi,Yogur,17.43,Otoño,12:00
+Angela Woods,Sevilla,Eroski,Huevos,6.25,Verano,21:00
+Joshua Griffin,Murcia,El Corte Inglés,Atún,5.1,Invierno,11:00
+Marisa Smith,Las Palmas,Carrefour,Atún,27.1,Verano,21:00
+Todd Mcgrath,Las Palmas,Lidl,Atún,39.33,Verano,12:00
+Steven Rogers,Madrid,Aldi,Huevos,31.76,Invierno,20:00
+Steven Acosta,Barcelona,Consum,Yogur,21.97,Verano,17:00
+Terri Krueger,Valencia,Bon Preu,Yogur,34.63,Otoño,16:00
+Maria Coleman,Málaga,Mercadona,Huevos,23.2,Otoño,16:00
+David Patterson,Zaragoza,Consum,Pasta,21.66,Invierno,09:00
+Mr. William Miller,Barcelona,Alcampo,Arroz,49.02,Otoño,14:00
+Edward Martin,Palma,El Corte Inglés,Manzanas,36.39,Primavera,21:00
+Anna Delgado,Murcia,Mercadona,Huevos,1.18,Verano,10:00
+Michael Myers,Las Palmas,El Corte Inglés,Arroz,25.91,Primavera,08:00
+Ronald Jones,Murcia,Alcampo,Pan,42.04,Primavera,14:00
+Kayla Travis,Valencia,Consum,Tomates,16.56,Otoño,14:00
+Tracey Murray,Murcia,El Corte Inglés,Pan,39.15,Otoño,12:00
+Kathleen Weiss,Palma,El Corte Inglés,Arroz,33.98,Invierno,16:00
+Kenneth Jones,Valencia,Consum,Yogur,34.57,Invierno,18:00
+Christian Smith,Barcelona,Alcampo,Huevos,44.23,Primavera,17:00
+Sarah Johnston,Murcia,Eroski,Pollo,12.84,Primavera,15:00
+Jared Pearson,Murcia,Lidl,Leche,36.58,Verano,08:00
+Lucas Lawrence,Zaragoza,Aldi,Pollo,45.06,Verano,17:00
+Rebecca Hahn,Madrid,Aldi,Tomates,17.29,Otoño,21:00
+Kara Tate,Las Palmas,Lidl,Manzanas,21.36,Primavera,17:00
+Miguel Robertson,Madrid,Alcampo,Arroz,38.29,Primavera,15:00
+Dawn Green,Sevilla,Mercadona,Pan,32.21,Primavera,08:00
+Jennifer Frey,Barcelona,Mercadona,Leche,18.43,Primavera,18:00
+Luis Carr,Barcelona,Dia,Huevos,27.08,Otoño,08:00
+Mary Mccullough,Bilbao,Dia,Manzanas,26.77,Invierno,13:00
+Nicholas Martinez,Málaga,Eroski,Tomates,7.22,Verano,10:00
+Kevin George,Las Palmas,Dia,Leche,40.87,Primavera,18:00
+Casey Davis,Zaragoza,Consum,Manzanas,26.4,Otoño,21:00
+Roy Holmes,Barcelona,Dia,Leche,27.66,Otoño,18:00
+Scott Garrett,Barcelona,Lidl,Manzanas,1.26,Invierno,20:00
+George Daniels,Madrid,Eroski,Pollo,21.28,Verano,12:00
+James Baker,Las Palmas,El Corte Inglés,Yogur,44.84,Invierno,18:00
+Larry Bradford,Las Palmas,El Corte Inglés,Huevos,40.01,Otoño,12:00
+Timothy Hayden,Sevilla,Mercadona,Leche,26.78,Otoño,18:00
+Melissa Wright,Las Palmas,Consum,Pasta,31.17,Primavera,20:00
+Lisa Rivas,Palma,Eroski,Huevos,36.26,Invierno,11:00
+Crystal Bright,Bilbao,El Corte Inglés,Arroz,6.28,Otoño,19:00
+Peter Mcknight,Murcia,Bon Preu,Huevos,5.24,Primavera,19:00
+James Gonzalez,Las Palmas,Bon Preu,Arroz,44.63,Invierno,10:00
+Andrew Jones,Sevilla,El Corte Inglés,Huevos,30.07,Invierno,11:00
+Jill Hunt,Las Palmas,Dia,Arroz,33.31,Verano,19:00
+James Burke,Valencia,Carrefour,Yogur,43.92,Otoño,11:00
+William Franco,Valencia,Mercadona,Tomates,39.22,Invierno,20:00
+Walter Allen,Las Palmas,Lidl,Atún,26.44,Invierno,09:00
+Courtney Warner,Málaga,Consum,Arroz,33.45,Invierno,16:00
+Wesley Wheeler,Bilbao,Dia,Atún,20.73,Otoño,20:00
+Lucas Rivera,Bilbao,Consum,Yogur,35.3,Invierno,15:00
+John Nguyen,Bilbao,Aldi,Atún,45.09,Invierno,18:00
+Joel Mason,Palma,Consum,Tomates,24.04,Invierno,19:00
+Jonathan Rivera MD,Sevilla,Mercadona,Yogur,39.93,Otoño,16:00
+Jill Hopkins,Madrid,Dia,Yogur,10.22,Otoño,17:00
+Steven Harris,Sevilla,Aldi,Yogur,16.37,Verano,16:00
+Rebecca Hahn,Sevilla,Aldi,Huevos,40.39,Primavera,19:00
+Steven Smith,Barcelona,Bon Preu,Arroz,29.89,Primavera,11:00
+Mary Mccullough,Málaga,Lidl,Pasta,9.69,Invierno,15:00
+Kenneth Foster,Valencia,Consum,Huevos,46.05,Verano,16:00
+Brian Fisher,Palma,Eroski,Arroz,8.12,Verano,20:00
+Kristen Owen,Bilbao,El Corte Inglés,Pasta,28.7,Verano,10:00
+Mary Conner,Valencia,Mercadona,Pan,32.39,Primavera,16:00
+Melanie Conley,Palma,Dia,Pollo,24.9,Verano,08:00
+Sandra Lee,Madrid,Lidl,Atún,16.1,Invierno,14:00
+Michael Dennis,Madrid,El Corte Inglés,Pasta,41.83,Otoño,17:00
+Craig Smith,Valencia,Lidl,Pollo,14.17,Verano,10:00
+Shannon Payne,Las Palmas,Mercadona,Pasta,21.08,Primavera,16:00
+Paul Barr,Málaga,Mercadona,Atún,13.58,Otoño,19:00
+Richard Newman,Málaga,El Corte Inglés,Atún,12.39,Primavera,16:00
+Edward Meyers,Palma,Alcampo,Pasta,36.79,Primavera,11:00
+Kenneth Jones,Málaga,Dia,Huevos,20.09,Verano,10:00
+Paul King,Las Palmas,El Corte Inglés,Pan,16.06,Invierno,21:00
+Courtney Cooley,Zaragoza,Consum,Leche,43.63,Invierno,08:00
+Brian Scott,Barcelona,Consum,Pan,15.06,Primavera,11:00
+Margaret Robinson,Palma,Bon Preu,Pasta,14.42,Verano,09:00
+Lisa Rivas,Barcelona,Lidl,Leche,14.63,Primavera,21:00
+Richard Buchanan,Valencia,Bon Preu,Pasta,4.88,Verano,15:00
+Terry Spears,Palma,Dia,Pollo,3.72,Primavera,13:00
+Joy Vargas,Valencia,El Corte Inglés,Manzanas,30.62,Primavera,19:00

@@ -1,6 +1,6 @@
 import xgboost as xgb
 from sklearn.ensemble import RandomForestClassifier, VotingClassifier
-from sklearn.model_selection import train_test_split, RandomizedSearchCV, cross_val_score
+from sklearn.model_selection import train_test_split, RandomizedSearchCV, cross_val_score, GridSearchCV
 from sklearn.metrics import recall_score, confusion_matrix, classification_report
 import pandas as pd
 import numpy as np
@@ -9,11 +9,21 @@ import random
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.preprocessing import LabelEncoder, StandardScaler
-from imblearn.over_sampling import SMOTENC
+from imblearn.combine import SMOTEENN
 import matplotlib.pyplot as plt
 import seaborn as sns
 from lightgbm import LGBMClassifier
 import warnings
+from imblearn.combine import SMOTETomek
+from imblearn.over_sampling import SMOTENC
+from imblearn.under_sampling import RandomUnderSampler
+from collections import Counter
+from sklearn.model_selection import RandomizedSearchCV, GridSearchCV
+from scipy.stats import randint, uniform
+from xgboost import XGBClassifier
+from sklearn.ensemble import RandomForestClassifier
+from lightgbm import LGBMClassifier
+from scipy.stats import uniform, randint
 
 # Initialize Faker
 fake = Faker()
@@ -157,78 +167,136 @@ X_scaled[numeric_features] = scaler.fit_transform(X[numeric_features])
 # Dividir los datos en conjuntos de entrenamiento y prueba
 X_train, X_test, y_train, y_test = train_test_split(X_scaled, y_classes, test_size=0.2, random_state=42)
 
-# Aplicar SMOTENC para balancear las clases
-categorical_features_idx = [X_train.columns.get_loc(col) for col in categorical_columns if col in X_train.columns]
-smote = SMOTENC(categorical_features=categorical_features_idx, random_state=42)
-X_train_resampled, y_train_resampled = smote.fit_resample(X_train, y_train)
+# Contar las muestras en cada clase
+class_counts = Counter(y_train)
 
-# Definir los modelos
-xgb_model = xgb.XGBClassifier(random_state=42, eval_metric='mlogloss')
-rf_model = RandomForestClassifier(random_state=42, class_weight='balanced')
-lgb_model = LGBMClassifier(random_state=42, objective='multiclass', num_class=3, verbose=-1)
+# Calcular el número deseado de muestras para cada clase
+target_counts = {
+    0: int(class_counts[0] * 1.2),  # Aumentar la clase 0 en un 20%
+    1: int(class_counts[1] * 1.1),  # Aumentar la clase 1 en un 10%
+    2: int(class_counts[2] * 1.2)   # Aumentar la clase 2 en un 20%
+}
 
-# Definir espacios de hiperparámetros
+smote_nc = SMOTENC(sampling_strategy=target_counts, categorical_features=[0, 1, 2, 3, 4], random_state=42)
+X_resampled, y_resampled = smote_nc.fit_resample(X_train, y_train)
+
+# XGBoost
 xgb_param_dist = {
-    'n_estimators': [100, 200, 300, 400],
-    'max_depth': [3, 4, 5, 6],
-    'learning_rate': [0.01, 0.05, 0.1],
-    'subsample': [0.6, 0.8, 1.0],
-    'colsample_bytree': [0.6, 0.8, 1.0],
-    'min_child_weight': [1, 3, 5],
-    'reg_alpha': [0, 0.1, 0.5, 1],
-    'reg_lambda': [0, 0.1, 0.5, 1]
+    'n_estimators': randint(300, 500),
+    'max_depth': randint(7, 10),
+    'learning_rate': uniform(0.04, 0.2),
+    'subsample': uniform(0.3, 0.2),
+    'min_child_weight': randint(1, 3)
 }
 
+xgb_random = RandomizedSearchCV(
+    XGBClassifier(random_state=42, eval_metric='mlogloss', objective='multi:softprob', num_class=3),
+    param_distributions=xgb_param_dist,
+    n_iter=20,
+    cv=3,
+    random_state=42,
+    n_jobs=-1
+)
+
+# Random Forest
 rf_param_dist = {
-    'n_estimators': [100, 200, 300, 400],
-    'max_depth': [5, 10, 15, None],
-    'min_samples_split': [2, 5, 10],
-    'min_samples_leaf': [1, 2, 4],
-    'max_features': ['sqrt', 'log2', None]
+    'n_estimators': randint(300, 500),
+    'max_depth': randint(8, 20),
+    'min_samples_split': randint(4, 10),
+    'min_samples_leaf': randint(3, 5),
+    'max_features': ['sqrt', 'log2']
 }
 
+rf_random = RandomizedSearchCV(
+    RandomForestClassifier(random_state=42, class_weight='balanced'),
+    param_distributions=rf_param_dist,
+    n_iter=20,
+    cv=3,
+    random_state=42,
+    n_jobs=-1
+)
+
+# LightGBM
 lgb_param_dist = {
-    'n_estimators': [100, 200, 300, 400],
-    'max_depth': [3, 4, 5, 6, -1],
-    'learning_rate': [0.01, 0.05, 0.1, 0.2],
-    'num_leaves': [31, 63, 127],
-    'min_child_samples': [5, 10, 20],
-    'subsample': [0.6, 0.8, 1.0],
-    'colsample_bytree': [0.6, 0.8, 1.0],
-    'reg_alpha': [0, 0.1, 0.5, 1],
-    'reg_lambda': [0, 0.1, 0.5, 1]
+    'num_leaves': randint(20, 100),
+    'max_depth': randint(3, 10),
+    'learning_rate': uniform(0.01, 0.2),
+    'n_estimators': randint(100, 500),
+    'subsample': uniform(0.5, 0.2)
 }
 
-# Realizar búsquedas aleatorias
-xgb_random_search = RandomizedSearchCV(estimator=xgb_model, param_distributions=xgb_param_dist, 
-                                       n_iter=20, cv=3, n_jobs=-1, verbose=1, 
-                                       scoring='balanced_accuracy', random_state=42)
-xgb_random_search.fit(X_train_resampled, y_train_resampled)
+lgb_random = RandomizedSearchCV(
+    LGBMClassifier(random_state=42, objective='multiclass', num_class=3, verbose=-1),
+    param_distributions=lgb_param_dist,
+    n_iter=20,
+    cv=3,
+    random_state=42,
+    n_jobs=-1
+)
 
-rf_random_search = RandomizedSearchCV(estimator=rf_model, param_distributions=rf_param_dist, 
-                                      n_iter=20, cv=3, n_jobs=-1, verbose=1, 
-                                      scoring='balanced_accuracy', random_state=42)
-rf_random_search.fit(X_train_resampled, y_train_resampled)
+# Fit the models
+xgb_random.fit(X_resampled, y_resampled)
+rf_random.fit(X_resampled, y_resampled)
+lgb_random.fit(X_resampled, y_resampled)
 
-lgb_random_search = RandomizedSearchCV(estimator=lgb_model, param_distributions=lgb_param_dist, 
-                                       n_iter=30, cv=3, n_jobs=-1, verbose=1, 
-                                       scoring='balanced_accuracy', random_state=42)
-lgb_random_search.fit(X_train_resampled, y_train_resampled)
+# Get the best parameters from RandomizedSearchCV
+best_xgb_params = xgb_random.best_params_
+best_rf_params = rf_random.best_params_
+best_lgb_params = lgb_random.best_params_
 
-# Obtener los mejores modelos
-best_xgb_model = xgb_random_search.best_estimator_
-best_rf_model = rf_random_search.best_estimator_
-best_lgb_model = lgb_random_search.best_estimator_
+# Define GridSearchCV parameters based on RandomizedSearchCV results
+xgb_grid_params = {
+    'n_estimators': [best_xgb_params['n_estimators'], min(300, best_xgb_params['n_estimators'] + 50)],
+    'max_depth': [best_xgb_params['max_depth'], min(7, best_xgb_params['max_depth'] + 1)],
+    'learning_rate': [best_xgb_params['learning_rate'], min(0.1, best_xgb_params['learning_rate'] + 0.01)],
+    'subsample': [best_xgb_params['subsample'], min(1.0, best_xgb_params['subsample'] + 0.1)],
+    'min_child_weight': [best_xgb_params['min_child_weight'], min(3, best_xgb_params['min_child_weight'] + 1)]
+}
 
-# Crear el ensemble con pesos ajustados
+rf_grid_params = {
+    'n_estimators': [best_rf_params['n_estimators'], min(300, best_rf_params['n_estimators'] + 50)],
+    'max_depth': [best_rf_params['max_depth'], min(15, best_rf_params['max_depth'] + 2)],
+    'min_samples_split': [best_rf_params['min_samples_split'], min(6, best_rf_params['min_samples_split'] + 1)],
+    'min_samples_leaf': [best_rf_params['min_samples_leaf'], min(4, best_rf_params['min_samples_leaf'] + 1)],
+    'max_features': ['sqrt', 'log2']
+}
+
+lgb_grid_params = {
+    'num_leaves': [best_lgb_params['num_leaves'], min(60, best_lgb_params['num_leaves'] + 10)],
+    'max_depth': [best_lgb_params['max_depth'], min(7, best_lgb_params['max_depth'] + 1)],
+    'learning_rate': [best_lgb_params['learning_rate'], min(0.1, best_lgb_params['learning_rate'] + 0.01)],
+    'n_estimators': [best_lgb_params['n_estimators'], min(300, best_lgb_params['n_estimators'] + 50)],
+    'subsample': [best_lgb_params['subsample'], min(1.0, best_lgb_params['subsample'] + 0.1)]
+}
+
+# Perform GridSearchCV
+xgb_grid = GridSearchCV(XGBClassifier(random_state=42, eval_metric='mlogloss', objective='multi:softprob', num_class=3), xgb_grid_params, cv=3, n_jobs=-1)
+rf_grid = GridSearchCV(RandomForestClassifier(random_state=42, class_weight='balanced'), rf_grid_params, cv=3, n_jobs=-1)
+lgb_grid = GridSearchCV(LGBMClassifier(random_state=42, objective='multiclass', num_class=3, verbose=-1), lgb_grid_params, cv=3, n_jobs=-1)
+
+# Fit GridSearchCV
+xgb_grid.fit(X_resampled, y_resampled)
+rf_grid.fit(X_resampled, y_resampled)
+lgb_grid.fit(X_resampled, y_resampled)
+
+# Get the best models
+best_xgb_model = xgb_grid.best_estimator_
+best_rf_model = rf_grid.best_estimator_
+best_lgb_model = lgb_grid.best_estimator_
+
+# Create the ensemble
 ensemble_model = VotingClassifier(
-    estimators=[('xgb', best_xgb_model), ('rf', best_rf_model), ('lgb', best_lgb_model)],
+    estimators=[
+        ('xgb', best_xgb_model),
+        ('rf', best_rf_model),
+        ('lgb', best_lgb_model)
+    ],
     voting='soft',
-    weights=[1, 1, 1]  # Puedes ajustar estos pesos según el rendimiento individual de cada modelo
+    weights=[2, 1, 1]  # Equal weights for all models
 )
 
 # Entrenar el ensemble
-ensemble_model.fit(X_train_resampled, y_train_resampled)
+ensemble_model.fit(X_resampled, y_resampled)
 
 # Hacer predicciones
 y_pred = ensemble_model.predict(X_test)
@@ -257,12 +325,12 @@ print("\nReporte de Clasificación:")
 print(classification_report(y_test, y_pred, target_names=['bajo', 'medio', 'alto']))
 
 # Imprimir los mejores parámetros encontrados
-print("\nMejores parámetros para XGBoost:")
-print(xgb_random_search.best_params_)
-print("\nMejores parámetros para Random Forest:")
-print(rf_random_search.best_params_)
-print("\nMejores parámetros para LightGBM:")
-print(lgb_random_search.best_params_)
+print("\nMejores parámetros para XGBoost después de GridSearchCV:")
+print(xgb_grid.best_params_)
+print("\nMejores parámetros para Random Forest después de GridSearchCV:")
+print(rf_grid.best_params_)
+print("\nMejores parámetros para LightGBM después de GridSearchCV:")
+print(lgb_grid.best_params_)
 
 # Calcular y mostrar la importancia de las características (usando Random Forest)
 feature_importance = best_rf_model.feature_importances_
@@ -280,7 +348,7 @@ plt.tight_layout()
 plt.show()
 
 # Validación cruzada
-cv_scores = cross_val_score(ensemble_model, X_train_resampled, y_train_resampled, cv=5, scoring='balanced_accuracy')
+cv_scores = cross_val_score(ensemble_model, X_resampled, y_resampled, cv=5, scoring='balanced_accuracy')
 print("\nPuntuaciones de validación cruzada:", cv_scores)
 print(f"Media de validación cruzada: {cv_scores.mean():.4f} (+/- {cv_scores.std() * 2:.4f})")
 
